@@ -1,0 +1,4457 @@
+{
+  "success": true,
+  "data": [
+    {
+      "block_id": 312452389,
+      "trans_id": "3uLYXAqfMwu2mLbWdvDeVdsqx2tyPZWfD7ZuxG5jxVXkdbE19E8YUXv7maTYdtzawS4RVdpWXoXSsQLyCexzmdnp",
+      "block_time": 1736252495,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "31KPvwdWKK9FVPAER5fXLHfCCBQ5wGyUSqFMnpF9Xvyj",
+      "sources": [
+        "CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+        "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "So11111111111111111111111111111111111111112",
+        "token1_decimals": 9,
+        "amount1": 10000000,
+        "token2": "So11111111111111111111111111111111111111112",
+        "token2_decimals": 9,
+        "amount2": 10015197,
+        "routers": [
+          {
+            "token1": "So11111111111111111111111111111111111111112",
+            "token1_decimals": 9,
+            "amount1": "10000000",
+            "token2": "BgoicVzEJAJt65CRFeVN6SthFxbZuvg7UnWAW8Kypump",
+            "token2_decimals": 6,
+            "amount2": "2319555040",
+            "program_address": "CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+            "pool_address": "EyjCLhx58fYPf8LRG2WTqTTu2TC11aKqEYazufrt4SW8"
+          },
+          {
+            "token1": "BgoicVzEJAJt65CRFeVN6SthFxbZuvg7UnWAW8Kypump",
+            "token1_decimals": 6,
+            "amount1": "2319555040",
+            "token2": "So11111111111111111111111111111111111111112",
+            "token2_decimals": 9,
+            "amount2": "10015197",
+            "program_address": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+            "pool_address": "6fqfaErNnmyzfRc3hNnQX8aX2RNmYVMPQ6vYd1b5Sh9n"
+          }
+        ]
+      },
+      "value": 2.13654197601
+    },
+    {
+      "block_id": 312452389,
+      "trans_id": "4ey3CvEV1zFpzkhucf8KxQ6Kvw1fYZu8Vsr1wcwRkYXHiGNtAK3QV86dZvx7VU684iRJXN955HhGfWbCCzkGSFMM",
+      "block_time": 1736252495,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "LceRhmNydvs1y7qrco7VFcRV9zvLc3A6M1QNmnmfmjy",
+      "sources": [
+        "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "GRNG6Fe5XamTgMMw29GBaGpQJYuf9JPz3sJ1JHfuEFPu",
+        "token1_decimals": 6,
+        "amount1": 158687660,
+        "token2": "So11111111111111111111111111111111111111112",
+        "token2_decimals": 9,
+        "amount2": 2793481,
+        "routers": [
+          {
+            "token1": "GRNG6Fe5XamTgMMw29GBaGpQJYuf9JPz3sJ1JHfuEFPu",
+            "token1_decimals": 6,
+            "amount1": "158687660",
+            "token2": "So11111111111111111111111111111111111111112",
+            "token2_decimals": 9,
+            "amount2": "2793481",
+            "program_address": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+            "pool_address": "D4mnzt16TJxsjiW9fUjFUgwjkb8WB5RvKEEJJEeGou5N"
+          }
+        ]
+      },
+      "value": 0.59593330173
+    },
+    {
+      "block_id": 312452389,
+      "trans_id": "26GWQWKsA4q8XQThwdej1Lg7Gh8a2KgpDS6BkfHZYNQuJwW2xk3zJg8SZtpx5nVSmvpQq369V8vjRRK3Z3JfoafT",
+      "block_time": 1736252495,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "9WpqB3kPtzy9JhQsuh8NnG7rsmzVXvWL9peun7y4C6X1",
+      "sources": [
+        "swapNyd8XiQwJ6ianp9snpu4brUqFxadzvHebnAXjJZ",
+        "whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+        "token1_decimals": 6,
+        "amount1": 990800,
+        "token2": "So11111111111111111111111111111111111111112",
+        "token2_decimals": 9,
+        "amount2": 4641238,
+        "routers": [
+          {
+            "token1": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+            "token1_decimals": 6,
+            "amount1": "990800",
+            "token2": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+            "token2_decimals": 6,
+            "amount2": "990820",
+            "program_address": "swapNyd8XiQwJ6ianp9snpu4brUqFxadzvHebnAXjJZ",
+            "pool_address": "F6B8Cy6nvtTbR6aPKeXJWdmQHAAi6s7gjj4RdTep2WgJ"
+          },
+          {
+            "token1": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+            "token1_decimals": 6,
+            "amount1": "990820",
+            "token2": "So11111111111111111111111111111111111111112",
+            "token2_decimals": 9,
+            "amount2": "4641238",
+            "program_address": "whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc",
+            "pool_address": "BmXVhzBHTawt5stWKBtFdjM8n33G5RoUDECE5FrRvayq"
+          }
+        ]
+      },
+      "value": 0.99011530254
+    },
+    {
+      "block_id": 312452389,
+      "trans_id": "5w6rTw92VfA5Dk7ZD5Ec5HmYDg5mxJAUYrDsy2hbqNTKqJQfoY5766HmbMmZnwmVt3EqjHPZ7cDVQX5NNKPEPrPn",
+      "block_time": 1736252495,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "FomUafRYK7GHCq7neToe9joBpDfUHWFEopKzPLJcRYq3",
+      "sources": [
+        "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "So11111111111111111111111111111111111111112",
+        "token1_decimals": 9,
+        "amount1": 251135343,
+        "token2": "9KfQFESKH6YBQ3MkPwYFY42iZ8xusBEJvPtBzcunR4q2",
+        "token2_decimals": 6,
+        "amount2": 79624530,
+        "routers": [
+          {
+            "token1": "So11111111111111111111111111111111111111112",
+            "token1_decimals": 9,
+            "amount1": "251135343",
+            "token2": "9KfQFESKH6YBQ3MkPwYFY42iZ8xusBEJvPtBzcunR4q2",
+            "token2_decimals": 6,
+            "amount2": "79624530",
+            "program_address": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+            "pool_address": "4e8D5r2Xp75S2KwxDT1Gz5DSHTzUQyredALA3M2AE1Rs"
+          }
+        ]
+      },
+      "value": 53.574702722190004
+    },
+    {
+      "block_id": 312452389,
+      "trans_id": "2mv6pXK7ncpXZ2b9QHQs8CLpRpr78NhHKZHv9CdptCPK5nagmmmWv6PAbugDoih9RM31jsNykuLEmY4L1YC3RfKV",
+      "block_time": 1736252495,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "n9L97j6d6hLAgWachKP7uk8wkxLyXAjs3a6Vu7tvuYu",
+      "sources": [
+        "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "So11111111111111111111111111111111111111112",
+        "token1_decimals": 9,
+        "amount1": 2281655,
+        "token2": "3aHGHRDSn2QLoSF9uygcChBhzPknrcGV4rHNWKToUvYa",
+        "token2_decimals": 6,
+        "amount2": 42674968,
+        "routers": [
+          {
+            "token1": "So11111111111111111111111111111111111111112",
+            "token1_decimals": 9,
+            "amount1": "2281655",
+            "token2": "3aHGHRDSn2QLoSF9uygcChBhzPknrcGV4rHNWKToUvYa",
+            "token2_decimals": 6,
+            "amount2": "42674968",
+            "program_address": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+            "pool_address": "38iZLvuTLPtXjDLDLtwQNf5ZHEeGvAP6Dd5ghKqdYvPg"
+          }
+        ]
+      },
+      "value": 0.48674546115000006
+    },
+    {
+      "block_id": 312452389,
+      "trans_id": "5LxAtb4xfjcbfu99acAfqnLGVhQWegauCeyFdwKjmCaddPP79dDBe919YWYuCo5WQRBRDMp1SykJ4uRYcZxwLLPp",
+      "block_time": 1736252495,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "6N8ExhnVC8UQcZgjXbDsH7eCSECH5Ygy97nRMzSmEjic",
+      "sources": [
+        "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "895hqS4UdST5hanxxeD6tMt3v6BbRd6yaBogULzJpump",
+        "token1_decimals": 6,
+        "amount1": 555000000,
+        "token2": "So11111111111111111111111111111111111111112",
+        "token2_decimals": 9,
+        "amount2": 31,
+        "routers": [
+          {
+            "token1": "895hqS4UdST5hanxxeD6tMt3v6BbRd6yaBogULzJpump",
+            "token1_decimals": 6,
+            "amount1": "555000000",
+            "token2": "So11111111111111111111111111111111111111112",
+            "token2_decimals": 9,
+            "amount2": "31",
+            "program_address": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+            "pool_address": "Db2JfaBTafp9hd4RadKZmV6bAGNJjJSBWBFLdqMTCkkE"
+          }
+        ]
+      },
+      "value": 0.00000661323
+    },
+    {
+      "block_id": 312452389,
+      "trans_id": "4Ks3uupYxscejjTeto5kNAskYBQrLq2eJ6U4quPgrdJZ3TVAnaN3X9L2evmyjieurxbrwrZnEAHR3k24XZ5RYj6c",
+      "block_time": 1736252495,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "92ovQVfqrf8mpF1fF4Mb9PoxtqsUD3U1FokUxVGCbqqv",
+      "sources": [
+        "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "So11111111111111111111111111111111111111112",
+        "token1_decimals": 9,
+        "amount1": 6277561,
+        "token2": "3aHGHRDSn2QLoSF9uygcChBhzPknrcGV4rHNWKToUvYa",
+        "token2_decimals": 6,
+        "amount2": 117413851,
+        "routers": [
+          {
+            "token1": "So11111111111111111111111111111111111111112",
+            "token1_decimals": 9,
+            "amount1": "6277561",
+            "token2": "3aHGHRDSn2QLoSF9uygcChBhzPknrcGV4rHNWKToUvYa",
+            "token2_decimals": 6,
+            "amount2": "117413851",
+            "program_address": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+            "pool_address": "38iZLvuTLPtXjDLDLtwQNf5ZHEeGvAP6Dd5ghKqdYvPg"
+          }
+        ]
+      },
+      "value": 1.3391920881300001
+    },
+    {
+      "block_id": 312452389,
+      "trans_id": "5vU6dRSyWjBsMWaVCyYSMLMpCfjmhFWUFuFniup31h3rArzwYbMxXYytKzLRQberdqD5BJHJ3zFhUmx3xyfUNkD7",
+      "block_time": 1736252495,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "YhLWpouKXoD18esrQamquzJ65Lqwy26uTUgtw1W6VFw",
+      "sources": [
+        "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "So11111111111111111111111111111111111111112",
+        "token1_decimals": 9,
+        "amount1": 14638042,
+        "token2": "HMAikgk8bF994rP3bFPXNY1AePLAJNHu1do8RvtxqU63",
+        "token2_decimals": 6,
+        "amount2": 333284976,
+        "routers": [
+          {
+            "token1": "So11111111111111111111111111111111111111112",
+            "token1_decimals": 9,
+            "amount1": "14638042",
+            "token2": "HMAikgk8bF994rP3bFPXNY1AePLAJNHu1do8RvtxqU63",
+            "token2_decimals": 6,
+            "amount2": "333284976",
+            "program_address": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+            "pool_address": "CJXGfeoyCmUondRiP5xUmBu1RrrWrziWAeveJntBQtkZ"
+          }
+        ]
+      },
+      "value": 3.1227334998600003
+    },
+    {
+      "block_id": 312452389,
+      "trans_id": "4hMWKrqGeZHxgwCkXE7tPbQgV2XF42FrnmnC1Mr1tnVLyJBrhDBZRN9Hg5JgB58k5m4FGD25r22MZixTWqmDEFFR",
+      "block_time": 1736252495,
+      "activity_type": "ACTIVITY_SPL_MINT",
+      "from_address": "D33wobbUPo9ChS8aR1RABHRYcaYZDmyajdvEM6RyLQ6a",
+      "token_address": "GWX1SRULf943PcPexGzrm4v1X3FQRyiq6vRjMmPRADTj",
+      "sources": [
+        "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "GWX1SRULf943PcPexGzrm4v1X3FQRyiq6vRjMmPRADTj",
+        "token1_decimals": 2,
+        "amount1": 5774
+      },
+      "value": -1
+    },
+    {
+      "block_id": 312452389,
+      "trans_id": "4hMWKrqGeZHxgwCkXE7tPbQgV2XF42FrnmnC1Mr1tnVLyJBrhDBZRN9Hg5JgB58k5m4FGD25r22MZixTWqmDEFFR",
+      "block_time": 1736252495,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "D33wobbUPo9ChS8aR1RABHRYcaYZDmyajdvEM6RyLQ6a",
+      "sources": [
+        "FLUXubRmkEi2q6K3Y9kBPg9248ggaZVsoSFhtJHSrm1X"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "So11111111111111111111111111111111111111112",
+        "token1_decimals": 9,
+        "amount1": 1799000000,
+        "token2": "5MdeaBGvCHmbkAsEwgC3LoGuiwtrUGbN32Cde1SyMDgD",
+        "token2_decimals": 9,
+        "amount2": 211980462380741,
+        "routers": [
+          {
+            "token1": "So11111111111111111111111111111111111111112",
+            "token1_decimals": 9,
+            "amount1": "1799000000",
+            "token2": "5MdeaBGvCHmbkAsEwgC3LoGuiwtrUGbN32Cde1SyMDgD",
+            "token2_decimals": 9,
+            "amount2": "211980462380741",
+            "program_address": "FLUXubRmkEi2q6K3Y9kBPg9248ggaZVsoSFhtJHSrm1X",
+            "pool_address": "C3qgWVhsGkUQCfj7hdehED7t18DPbs53ZjnyCt87ucWe"
+          }
+        ]
+      },
+      "value": 383.78067
+    },
+    {
+      "block_id": 312452389,
+      "trans_id": "3wBLkh2doeKFErzr1HomRk2KP3Yx3DBdSmEAUU6nWXxK8ZM11z2FW2tw2J9EFHpooacjZq6zxDNSHbV2jZzFwrd8",
+      "block_time": 1736252495,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "6mj5uVT5mwe2Ho3zQiNFF2o8pGgYKVdw5Wq2kBAKRz6o",
+      "sources": [
+        "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "So11111111111111111111111111111111111111112",
+        "token1_decimals": 9,
+        "amount1": 1864000,
+        "token2": "2N6sSGkxDnZjxRTRoFdKPtRD2y8wuwNvZgBoUsrtZon4",
+        "token2_decimals": 6,
+        "amount2": 1476589904,
+        "routers": [
+          {
+            "token1": "So11111111111111111111111111111111111111112",
+            "token1_decimals": 9,
+            "amount1": "1864000",
+            "token2": "2N6sSGkxDnZjxRTRoFdKPtRD2y8wuwNvZgBoUsrtZon4",
+            "token2_decimals": 6,
+            "amount2": "1476589904",
+            "program_address": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+            "pool_address": "3YZ3t7BHrQrzWV16EmbunYw2SYHex9KSuyxedgnCZrf7"
+          }
+        ]
+      },
+      "value": 0.39764712
+    },
+    {
+      "block_id": 312452389,
+      "trans_id": "29Ya9bX3GR9PQAQfgTFRa8tYETPsA6uUpDzxLjx9oWqvh5ny1zQfTdbQiiGW9e2YrYb84Hg5guVdi6FcoPrwXmje",
+      "block_time": 1736252495,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "5nfrjjoi2JsmpzyZT7e1Em6wCgybdM9m72fUcaz7AfCJ",
+      "sources": [
+        "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "aicVGRafAgFcSsGwPzDhpWqoa9MsavR7fC1ppzCxmAn",
+        "token1_decimals": 6,
+        "amount1": 16555000000,
+        "token2": "So11111111111111111111111111111111111111112",
+        "token2_decimals": 9,
+        "amount2": 1477,
+        "routers": [
+          {
+            "token1": "aicVGRafAgFcSsGwPzDhpWqoa9MsavR7fC1ppzCxmAn",
+            "token1_decimals": 6,
+            "amount1": "16555000000",
+            "token2": "So11111111111111111111111111111111111111112",
+            "token2_decimals": 9,
+            "amount2": "1477",
+            "program_address": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+            "pool_address": "7gEsWgBQXx3CPhCs1mbzW2EwGTeedXh1Z8PaVserNsfZ"
+          }
+        ]
+      },
+      "value": 0.00031508841000000003
+    },
+    {
+      "block_id": 312452389,
+      "trans_id": "3TrMw5AuuwKArYLprXqUeXeAZAZXpUMb6FZ2z3L299gBM9pXY7Ni4sVL3SSCFw4PBmf2xyXULeqfXxd67mdZm5U1",
+      "block_time": 1736252495,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "3UjpF7nUGNbS8AmoBC7vMciWnrs34GZ7uCrcyAkSfkDC",
+      "sources": [
+        "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "4WL3feuUCD6Xihv1HsaP1u3RP5qDQR6CSQxqzVkFpump",
+        "token1_decimals": 6,
+        "amount1": 412298405030,
+        "token2": "So11111111111111111111111111111111111111112",
+        "token2_decimals": 9,
+        "amount2": 34838326,
+        "routers": [
+          {
+            "token1": "4WL3feuUCD6Xihv1HsaP1u3RP5qDQR6CSQxqzVkFpump",
+            "token1_decimals": 6,
+            "amount1": "412298405030",
+            "token2": "So11111111111111111111111111111111111111112",
+            "token2_decimals": 9,
+            "amount2": "34838326",
+            "program_address": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+            "pool_address": "Cj9jQjRwnDpkPTjrdazVHvAtLNYQ56StXxB9dvBGf815"
+          }
+        ]
+      },
+      "value": 7.432060085580001
+    },
+    {
+      "block_id": 312452389,
+      "trans_id": "esnvSZbnU9X2WPRdNMWpLd9bzFGsEi7x1uEwG6QAx5FTLEqrU1nQhHuBaq6Qdi7z1xj4Mom3Gf4ct3Tiuh7im3V",
+      "block_time": 1736252495,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "ZtNoGMyvqHsnv1iYEccMRUsWoQc62SMabFLxoVATEWd",
+      "sources": [
+        "CPMMoo8L3F4NbTegBCKVNunggL7H1ZpdTHKxQB5qKP1C"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "So11111111111111111111111111111111111111112",
+        "token1_decimals": 9,
+        "amount1": 1630631422,
+        "token2": "9C2DUdsuKyqd4NZx6CfCUWS3ScuJgcbvSUZo2u6E8sYu",
+        "token2_decimals": 6,
+        "amount2": 1469822842087,
+        "routers": [
+          {
+            "token1": "So11111111111111111111111111111111111111112",
+            "token1_decimals": 9,
+            "amount1": "1630631422",
+            "token2": "9C2DUdsuKyqd4NZx6CfCUWS3ScuJgcbvSUZo2u6E8sYu",
+            "token2_decimals": 6,
+            "amount2": "1469822842087",
+            "program_address": "CPMMoo8L3F4NbTegBCKVNunggL7H1ZpdTHKxQB5qKP1C",
+            "pool_address": "A7AjCmZmuHfyTkxQPfdLNYtBxQpJ8fH87zxQwtuX1Z23"
+          }
+        ]
+      },
+      "value": 347.86260125526
+    },
+    {
+      "block_id": 312452389,
+      "trans_id": "JNPnw56vzpYd3Un9a6aeeyvUuRF4Cq8ZqVjsAA8rwdpGC3GxGjeKLKhzpWGpbEAWTV1PS2oHchQ36xT9sQgYaUc",
+      "block_time": 1736252495,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "3HF5GGumrr8YAuMsC4RDycVAU9JbFE6STDZpFtkXDdYZ",
+      "sources": [
+        "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "So11111111111111111111111111111111111111112",
+        "token1_decimals": 9,
+        "amount1": 1035500000,
+        "token2": "8q8YMVJDB8dm1EEBhDzhQvHk69KsNkGSzxs41hTByTbK",
+        "token2_decimals": 6,
+        "amount2": 3487952084,
+        "routers": [
+          {
+            "token1": "So11111111111111111111111111111111111111112",
+            "token1_decimals": 9,
+            "amount1": "1035500000",
+            "token2": "8q8YMVJDB8dm1EEBhDzhQvHk69KsNkGSzxs41hTByTbK",
+            "token2_decimals": 6,
+            "amount2": "3487952084",
+            "program_address": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+            "pool_address": "3RBV39TD4PVixJjup7Uy2Z68PoXxuyz7b1auaXJAQZjW"
+          }
+        ]
+      },
+      "value": 220.90321500000005
+    },
+    {
+      "block_id": 312452389,
+      "trans_id": "5bD9CH4gqYNkoRsVeFsX4yY4CPcDt62qWndi17Vm7BW6s2x6bkjwhXCV3Hxdz6LGHRVqBGR1bF6GtJvNmTigFbeb",
+      "block_time": 1736252495,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "AeAx1YMonyNuzowncYfHDNZgNrx4dxJ2yb6YvJkDosqu",
+      "sources": [
+        "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "Es7WfpbnJoaydo3DnLSk2qrvipAHUJho7BfE3d5q3VpN",
+        "token1_decimals": 6,
+        "amount1": 2196269428,
+        "token2": "So11111111111111111111111111111111111111112",
+        "token2_decimals": 9,
+        "amount2": 95606621,
+        "routers": [
+          {
+            "token1": "Es7WfpbnJoaydo3DnLSk2qrvipAHUJho7BfE3d5q3VpN",
+            "token1_decimals": 6,
+            "amount1": "2196269428",
+            "token2": "So11111111111111111111111111111111111111112",
+            "token2_decimals": 9,
+            "amount2": "95606621",
+            "program_address": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+            "pool_address": "7LQ69XDJeecNYCoPbHNHqAbB6xxiVPorpJVyFdZWPJmX"
+          }
+        ]
+      },
+      "value": 20.395760457930002
+    },
+    {
+      "block_id": 312452389,
+      "trans_id": "v6DN7BmNB9ZF1kbhFc1ohpKgPxYxUTmzaXfqsjGD96Ua8U925CGdcxZ4Sewh89AvuxwEvS1bZP1XZNqjCtNcV8L",
+      "block_time": 1736252495,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "GM8Fvy48LSuwZ1rd1KzNgWP5xh3jDDfbCMsZZDrFck2q",
+      "sources": [
+        "LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "So11111111111111111111111111111111111111112",
+        "token1_decimals": 9,
+        "amount1": 2344000000,
+        "token2": "61V8vBaqAGMpgDQi4JcAwo1dmBGHsyhzodcPqnEVpump",
+        "token2_decimals": 6,
+        "amount2": 1345021677,
+        "routers": [
+          {
+            "token1": "So11111111111111111111111111111111111111112",
+            "token1_decimals": 9,
+            "amount1": "2344000000",
+            "token2": "61V8vBaqAGMpgDQi4JcAwo1dmBGHsyhzodcPqnEVpump",
+            "token2_decimals": 6,
+            "amount2": "1345021677",
+            "program_address": "LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo",
+            "pool_address": "CD58GhoxYff5mZhKr3WcZhLhFAwHroSdQQ52uB8SP2Gy"
+          }
+        ]
+      },
+      "value": 500.04552
+    },
+    {
+      "block_id": 312452389,
+      "trans_id": "63p4Gm3mGppkD9dCfpa6SiQ1bJzjRPdXqbnfRGfQ2ZWmsMnkGbHJ1tHwayTQMNiw8NHNrsPfrMMuuzStYQMY5vw9",
+      "block_time": 1736252495,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "6S1KwaVu62foyfNz4vQggEuCRLCvzKLYBRm5nRhSE98V",
+      "sources": [
+        "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "So11111111111111111111111111111111111111112",
+        "token1_decimals": 9,
+        "amount1": 100000000,
+        "token2": "HuL1WSoBYPRaYbWQ4u6VJAdjznCjecdc3Z5yVqVepump",
+        "token2_decimals": 6,
+        "amount2": 498309704668,
+        "routers": [
+          {
+            "token1": "So11111111111111111111111111111111111111112",
+            "token1_decimals": 9,
+            "amount1": "100000000",
+            "token2": "HuL1WSoBYPRaYbWQ4u6VJAdjznCjecdc3Z5yVqVepump",
+            "token2_decimals": 6,
+            "amount2": "498309704668",
+            "program_address": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+            "pool_address": "FNvCBBaojnahHx6EcA2xUN71S89PTWWLyLwM8Vm5MPsM"
+          }
+        ]
+      },
+      "value": 21.333000000000002
+    },
+    {
+      "block_id": 312452389,
+      "trans_id": "4HuSjgfQbqwZBHWG8L54PW1LCNWGqZVUSbpJZkiMbQh4oFEadW2rVeF69uUbZRcEEJW7gE3kVh9Cp9amDmnMeT1q",
+      "block_time": 1736252495,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "6sUQznQescFxY1ywLM8ofWfaGQPw3KYReJjtQ8JRaUy3",
+      "sources": [
+        "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "So11111111111111111111111111111111111111112",
+        "token1_decimals": 9,
+        "amount1": 30000000,
+        "token2": "48LFosAWDKQ9tNJx97LRkzzQ5HbmwQtU1bUobyr1JRCH",
+        "token2_decimals": 9,
+        "amount2": 107552810969893,
+        "routers": [
+          {
+            "token1": "So11111111111111111111111111111111111111112",
+            "token1_decimals": 9,
+            "amount1": "30000000",
+            "token2": "48LFosAWDKQ9tNJx97LRkzzQ5HbmwQtU1bUobyr1JRCH",
+            "token2_decimals": 9,
+            "amount2": "107552810969893",
+            "program_address": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+            "pool_address": "D41SxBgDmJjizrWrRCwiyagTTgt7M4PFMBvpNZ3ciRie"
+          }
+        ]
+      },
+      "value": 6.3999
+    },
+    {
+      "block_id": 312452386,
+      "trans_id": "2S8aDPprhaVHEW7YJDbjPw7EAMDAadAmbypwBTWKrZzEsFghounaaazcttDTsY9afeGcgjg96dq3bzFtemUPYeAv",
+      "block_time": 1736252494,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "JD38n7ynKYcgPpF7k1BhXEeREu1KqptU93fVGy3S624k",
+      "sources": [
+        "CPMMoo8L3F4NbTegBCKVNunggL7H1ZpdTHKxQB5qKP1C"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "DWEmswm2X2L3wbTmEfoyt5LqTtvFRha6HnNUfWfThuS6",
+        "token1_decimals": 6,
+        "amount1": 100984158,
+        "token2": "GEQxsGyc1HYbdVDzdk7qrX4zZ6334AHjswj1R3wgoxQE",
+        "token2_decimals": 6,
+        "amount2": 3310947,
+        "routers": [
+          {
+            "token1": "DWEmswm2X2L3wbTmEfoyt5LqTtvFRha6HnNUfWfThuS6",
+            "token1_decimals": 6,
+            "amount1": "100984158",
+            "token2": "GEQxsGyc1HYbdVDzdk7qrX4zZ6334AHjswj1R3wgoxQE",
+            "token2_decimals": 6,
+            "amount2": "3310947",
+            "program_address": "CPMMoo8L3F4NbTegBCKVNunggL7H1ZpdTHKxQB5qKP1C",
+            "pool_address": "3ygo3XHZdwBE1DN7bxjZPqiHqqg71pi9tLrurj8y2oy7"
+          }
+        ]
+      },
+      "value": -1
+    },
+    {
+      "block_id": 312452386,
+      "trans_id": "4aBVFTTxa9CzZnVaysdFQk1dWT3obwXd3RB7MQqPyvgnjthvpkQpxpANbkzcZhczH5BXDyapoY68A99FHTDd529o",
+      "block_time": 1736252494,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "JD38n7ynKYcgPpF7k1BhXEeREu1KqptU93fVGy3S624k",
+      "sources": [
+        "CPMMoo8L3F4NbTegBCKVNunggL7H1ZpdTHKxQB5qKP1C"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "4tdgnZESdqWYxx3cKt9Z8zyB8wLJnfzWfurFum2Enj53",
+        "token1_decimals": 6,
+        "amount1": 628122173,
+        "token2": "4QQ9cB5gyrEMia8Kd38Ygm6CUBmqqRAvCAQcEZ7RK1bC",
+        "token2_decimals": 6,
+        "amount2": 78291849,
+        "routers": [
+          {
+            "token1": "4tdgnZESdqWYxx3cKt9Z8zyB8wLJnfzWfurFum2Enj53",
+            "token1_decimals": 6,
+            "amount1": "628122173",
+            "token2": "4QQ9cB5gyrEMia8Kd38Ygm6CUBmqqRAvCAQcEZ7RK1bC",
+            "token2_decimals": 6,
+            "amount2": "78291849",
+            "program_address": "CPMMoo8L3F4NbTegBCKVNunggL7H1ZpdTHKxQB5qKP1C",
+            "pool_address": "sCs1oLPaoeJwyVea2c5WS1TaqpR8u9Cb5pzMerrGx9s"
+          }
+        ]
+      },
+      "value": 78.28448334518288
+    },
+    {
+      "block_id": 312452386,
+      "trans_id": "5gnyZXvWPy64U7USGBWJdLLDKUmpLoJFBBxqhxCgCxuELqUhfzwHjBQCs7xJicsiY8Mxgku9SNXW37Xdr6HrRE3s",
+      "block_time": 1736252494,
+      "activity_type": "ACTIVITY_SPL_BURN",
+      "from_address": "H8TkQY8hEXZMtKjojsnKV8xidcycyC3hyAzJLiSEcLkR",
+      "token_address": "2EH5jTzLGuiKVp1V3HyfUw2XHYXQnEvrqX1VdeT9ApUi",
+      "sources": [
+        "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "2EH5jTzLGuiKVp1V3HyfUw2XHYXQnEvrqX1VdeT9ApUi",
+        "token1_decimals": 6,
+        "amount1": 53985161432
+      },
+      "value": -1
+    },
+    {
+      "block_id": 312452386,
+      "trans_id": "5gnyZXvWPy64U7USGBWJdLLDKUmpLoJFBBxqhxCgCxuELqUhfzwHjBQCs7xJicsiY8Mxgku9SNXW37Xdr6HrRE3s",
+      "block_time": 1736252494,
+      "activity_type": "ACTIVITY_TOKEN_WITHDRAW_VAULT",
+      "from_address": "H8TkQY8hEXZMtKjojsnKV8xidcycyC3hyAzJLiSEcLkR",
+      "sources": [
+        "24Uqj9JCLxUeoC3hGfh5W3s9FM9uCHDS2SG3LYwBpyTi"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "A76gjxw27JJ97pPqeR6R54tw844N9VFieLmFGmRdynRt",
+        "token1_decimals": 6,
+        "amount1": "53985161432"
+      },
+      "value": 20.979381538592552
+    },
+    {
+      "block_id": 312452386,
+      "trans_id": "5gnyZXvWPy64U7USGBWJdLLDKUmpLoJFBBxqhxCgCxuELqUhfzwHjBQCs7xJicsiY8Mxgku9SNXW37Xdr6HrRE3s",
+      "block_time": 1736252494,
+      "activity_type": "ACTIVITY_SPL_MINT",
+      "from_address": "H8TkQY8hEXZMtKjojsnKV8xidcycyC3hyAzJLiSEcLkR",
+      "token_address": "FZN7QZ8ZUUAxMPfxYEYkH3cXUASzH8EqA6B4tyCL8f1j",
+      "sources": [
+        "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "FZN7QZ8ZUUAxMPfxYEYkH3cXUASzH8EqA6B4tyCL8f1j",
+        "token1_decimals": 9,
+        "amount1": 92534913
+      },
+      "value": 7.792823374926338
+    },
+    {
+      "block_id": 312452386,
+      "trans_id": "5gnyZXvWPy64U7USGBWJdLLDKUmpLoJFBBxqhxCgCxuELqUhfzwHjBQCs7xJicsiY8Mxgku9SNXW37Xdr6HrRE3s",
+      "block_time": 1736252494,
+      "activity_type": "ACTIVITY_TOKEN_DEPOSIT_VAULT",
+      "from_address": "H8TkQY8hEXZMtKjojsnKV8xidcycyC3hyAzJLiSEcLkR",
+      "sources": [
+        "24Uqj9JCLxUeoC3hGfh5W3s9FM9uCHDS2SG3LYwBpyTi"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "So11111111111111111111111111111111111111112",
+        "token1_decimals": 9,
+        "amount1": "99227186"
+      },
+      "value": 21.16813558938
+    },
+    {
+      "block_id": 312452386,
+      "trans_id": "5gnyZXvWPy64U7USGBWJdLLDKUmpLoJFBBxqhxCgCxuELqUhfzwHjBQCs7xJicsiY8Mxgku9SNXW37Xdr6HrRE3s",
+      "block_time": 1736252494,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "H8TkQY8hEXZMtKjojsnKV8xidcycyC3hyAzJLiSEcLkR",
+      "sources": [
+        "Eo7WjKq67rjJQSZxS6z3YkapzY3eMj6Xy8X5EQVn5UaB",
+        "24Uqj9JCLxUeoC3hGfh5W3s9FM9uCHDS2SG3LYwBpyTi"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "So11111111111111111111111111111111111111112",
+        "token1_decimals": 9,
+        "amount1": 99276824,
+        "token2": "A76gjxw27JJ97pPqeR6R54tw844N9VFieLmFGmRdynRt",
+        "token2_decimals": 6,
+        "amount2": 53985161432,
+        "routers": [
+          {
+            "token1": "So11111111111111111111111111111111111111112",
+            "token1_decimals": 9,
+            "amount1": "99276824",
+            "token2": "A76gjxw27JJ97pPqeR6R54tw844N9VFieLmFGmRdynRt",
+            "token2_decimals": 6,
+            "amount2": "53985161432",
+            "program_address": "Eo7WjKq67rjJQSZxS6z3YkapzY3eMj6Xy8X5EQVn5UaB",
+            "pool_address": "Hxfyv7GJUpZ1bNhuC4bDtifGSn6pt4L5Hj4bAA8NPLQW"
+          }
+        ]
+      },
+      "value": 21.17872486392
+    },
+    {
+      "block_id": 312452386,
+      "trans_id": "3MS1sDzy6ipL38Gj15gPnSo1MmNt174DFThS7ZNPBtfRL3UqBL2ywRLP3MLJwgHgRxTDr1iqSNKGKnRWpjFYUz61",
+      "block_time": 1736252494,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "wrongpDtP8oMtw7iDT6FPvcVSS4qcKiqzD2DNSeVyKc",
+      "sources": [
+        "CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+        "SoLFiHG9TfgtdUXUjWAxi3LtvYuFyDLVhBWxdMZxyCe",
+        "whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "So11111111111111111111111111111111111111112",
+        "token1_decimals": 9,
+        "amount1": 151680297,
+        "token2": "So11111111111111111111111111111111111111112",
+        "token2_decimals": 9,
+        "amount2": 151728556,
+        "routers": [
+          {
+            "token1": "So11111111111111111111111111111111111111112",
+            "token1_decimals": 9,
+            "amount1": "151680297",
+            "token2": "9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump",
+            "token2_decimals": 6,
+            "amount2": "26584179",
+            "program_address": "CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+            "pool_address": "FLVnG2UUa36QwSbgErmqbwv1iTXa2moJSPA2qDwDLwHo"
+          },
+          {
+            "token1": "9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump",
+            "token1_decimals": 6,
+            "amount1": "26584179",
+            "token2": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+            "token2_decimals": 6,
+            "amount2": "32369083",
+            "program_address": "SoLFiHG9TfgtdUXUjWAxi3LtvYuFyDLVhBWxdMZxyCe",
+            "pool_address": "FeLULW5RCKDT2NuThu4vrAQ8BjH5YbU2Y7GbiZXYohm8"
+          },
+          {
+            "token1": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+            "token1_decimals": 6,
+            "amount1": "32369083",
+            "token2": "So11111111111111111111111111111111111111112",
+            "token2_decimals": 9,
+            "amount2": "151728556",
+            "program_address": "whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc",
+            "pool_address": "83v8iPyZihDEjDdY8RdZddyZNyUtXngz69Lgo9Kt5d6d"
+          }
+        ]
+      },
+      "value": 32.36825285148
+    },
+    {
+      "block_id": 312452386,
+      "trans_id": "3mEe1CB1Ze8KnDZJbri4YwXaWSWfSKUg6z2istX8EBYmppysjW1Nnpd1z5mKz27kbuNYMNVmrECNJEsJ79zGD3wD",
+      "block_time": 1736252494,
+      "activity_type": "ACTIVITY_SPL_MINT",
+      "from_address": "9osj5ksZcrYVeft5pjN1KUNpuM9xiZpjLPxtiMHG4AT5",
+      "token_address": "AtpUocL94CzYR1tZouFpo76QeGsUMH7kSqicaTNy7Lvz",
+      "sources": [
+        "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "AtpUocL94CzYR1tZouFpo76QeGsUMH7kSqicaTNy7Lvz",
+        "token1_decimals": 9,
+        "amount1": 2940
+      },
+      "value": -1
+    },
+    {
+      "block_id": 312452386,
+      "trans_id": "3mEe1CB1Ze8KnDZJbri4YwXaWSWfSKUg6z2istX8EBYmppysjW1Nnpd1z5mKz27kbuNYMNVmrECNJEsJ79zGD3wD",
+      "block_time": 1736252494,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "9osj5ksZcrYVeft5pjN1KUNpuM9xiZpjLPxtiMHG4AT5",
+      "sources": [
+        "2wT8Yq49kHgDzXuPxZSaeLaH1qbmGXtEyPy64bL7aD3c",
+        "whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc",
+        "CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "So11111111111111111111111111111111111111112",
+        "token1_decimals": 9,
+        "amount1": 505575665,
+        "token2": "So11111111111111111111111111111111111111112",
+        "token2_decimals": 9,
+        "amount2": 505588606,
+        "routers": [
+          {
+            "token1": "So11111111111111111111111111111111111111112",
+            "token1_decimals": 9,
+            "amount1": "505575665",
+            "token2": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+            "token2_decimals": 6,
+            "amount2": "107859273",
+            "program_address": "2wT8Yq49kHgDzXuPxZSaeLaH1qbmGXtEyPy64bL7aD3c",
+            "pool_address": "71GHcjkwmtM7HSWBuqzjEp96prcNNwu1wpUywXiytREU"
+          },
+          {
+            "token1": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+            "token1_decimals": 6,
+            "amount1": "107859273",
+            "token2": "J1toso1uCk3RLmjorhTtrVwY9HJ7X8V9yYac6Y7kGCPn",
+            "token2_decimals": 9,
+            "amount2": "433364472",
+            "program_address": "whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc",
+            "pool_address": "5hWJUNTtEtKmKgDXpthJXXRRmJrz5vJ7uJzrUNVdrwLg"
+          },
+          {
+            "token1": "J1toso1uCk3RLmjorhTtrVwY9HJ7X8V9yYac6Y7kGCPn",
+            "token1_decimals": 9,
+            "amount1": "433364472",
+            "token2": "So11111111111111111111111111111111111111112",
+            "token2_decimals": 9,
+            "amount2": "505588606",
+            "program_address": "CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+            "pool_address": "2uoKbPEidR7KAMYtY4x7xdkHXWqYib5k4CutJauSL3Mc"
+          }
+        ]
+      },
+      "value": 107.85721731798
+    },
+    {
+      "block_id": 312452386,
+      "trans_id": "44nQJLLhDJaERsAUuuwUuxKSvSgYA9uj6t2kribra3bcpNuAxsLamLuqXYgdwnsi7TPRnKdGPFVdPVLG4QvLk1Wq",
+      "block_time": 1736252494,
+      "activity_type": "ACTIVITY_SPL_MINT",
+      "from_address": "6JQMDihWxi1XTNTttkWaNnwKjYhqVULvdSbN8jhFV97n",
+      "token_address": "2e6NAJy1qaKMq8PaswP2uzimMDvbr71Tbw38G6q9SNZ2",
+      "sources": [
+        "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "2e6NAJy1qaKMq8PaswP2uzimMDvbr71Tbw38G6q9SNZ2",
+        "token1_decimals": 9,
+        "amount1": 44620
+      },
+      "value": -1
+    },
+    {
+      "block_id": 312452386,
+      "trans_id": "44nQJLLhDJaERsAUuuwUuxKSvSgYA9uj6t2kribra3bcpNuAxsLamLuqXYgdwnsi7TPRnKdGPFVdPVLG4QvLk1Wq",
+      "block_time": 1736252494,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "6JQMDihWxi1XTNTttkWaNnwKjYhqVULvdSbN8jhFV97n",
+      "sources": [
+        "2wT8Yq49kHgDzXuPxZSaeLaH1qbmGXtEyPy64bL7aD3c",
+        "DecZY86MU5Gj7kppfUCEmd4LbXXuyZH1yHaP2NTqdiZB",
+        "whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "So11111111111111111111111111111111111111112",
+        "token1_decimals": 9,
+        "amount1": 369918815,
+        "token2": "So11111111111111111111111111111111111111112",
+        "token2_decimals": 9,
+        "amount2": 369930399,
+        "routers": [
+          {
+            "token1": "So11111111111111111111111111111111111111112",
+            "token1_decimals": 9,
+            "amount1": "369918815",
+            "token2": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+            "token2_decimals": 6,
+            "amount2": "78922404",
+            "program_address": "2wT8Yq49kHgDzXuPxZSaeLaH1qbmGXtEyPy64bL7aD3c",
+            "pool_address": "EiEAydLqSKFqRPpuwYoVxEJ6h9UZh9tsTaHgs4f8b8Z5"
+          },
+          {
+            "token1": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+            "token1_decimals": 6,
+            "amount1": "78922404",
+            "token2": "T8KdT8hDzNhbGx5sjpEUxepnbDB1TZoCa7vtC5JjsMw",
+            "token2_decimals": 8,
+            "amount2": "7892240400",
+            "program_address": "DecZY86MU5Gj7kppfUCEmd4LbXXuyZH1yHaP2NTqdiZB"
+          },
+          {
+            "token1": "T8KdT8hDzNhbGx5sjpEUxepnbDB1TZoCa7vtC5JjsMw",
+            "token1_decimals": 8,
+            "amount1": "7892240400",
+            "token2": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+            "token2_decimals": 6,
+            "amount2": "78922404",
+            "program_address": "DecZY86MU5Gj7kppfUCEmd4LbXXuyZH1yHaP2NTqdiZB"
+          },
+          {
+            "token1": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+            "token1_decimals": 6,
+            "amount1": "78922404",
+            "token2": "So11111111111111111111111111111111111111112",
+            "token2_decimals": 9,
+            "amount2": "369930399",
+            "program_address": "whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc",
+            "pool_address": "B6LL9aCWVuo1tTcJoYvCTDqYrq1vjMfci8uHxsm4UxTR"
+          }
+        ]
+      },
+      "value": 78.91725201867001
+    },
+    {
+      "block_id": 312452386,
+      "trans_id": "5yuJ8Tj4QPgGz8TAbJp43e3XSRkbQZaxW9PxzvVZRweutZPRJkECxTX1q2Dh6JLN9HyyqMmidmNjsqVPJAGMhDWg",
+      "block_time": 1736252494,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "FK9iNcFYwNumvWfpHav6YuwkWMXjCC2jefM7kC7RE5BJ",
+      "sources": [
+        "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "3aHGHRDSn2QLoSF9uygcChBhzPknrcGV4rHNWKToUvYa",
+        "token1_decimals": 6,
+        "amount1": 4456279634,
+        "token2": "So11111111111111111111111111111111111111112",
+        "token2_decimals": 9,
+        "amount2": 237153375,
+        "routers": [
+          {
+            "token1": "3aHGHRDSn2QLoSF9uygcChBhzPknrcGV4rHNWKToUvYa",
+            "token1_decimals": 6,
+            "amount1": "4456279634",
+            "token2": "So11111111111111111111111111111111111111112",
+            "token2_decimals": 9,
+            "amount2": "237153375",
+            "program_address": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+            "pool_address": "38iZLvuTLPtXjDLDLtwQNf5ZHEeGvAP6Dd5ghKqdYvPg"
+          }
+        ]
+      },
+      "value": 50.591929488750004
+    },
+    {
+      "block_id": 312452386,
+      "trans_id": "3X8rogEvyDBm2JYBFvEnhVWguLBDMbATXQsqMHe72ve7NEW2nFZM7AGXJJ3F2nqPmSGG8Syo9zP8JMYk7W9ARGsF",
+      "block_time": 1736252494,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "wrongpDtP8oMtw7iDT6FPvcVSS4qcKiqzD2DNSeVyKc",
+      "sources": [
+        "SoLFiHG9TfgtdUXUjWAxi3LtvYuFyDLVhBWxdMZxyCe",
+        "CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+        "LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "So11111111111111111111111111111111111111112",
+        "token1_decimals": 9,
+        "amount1": 55948885,
+        "token2": "So11111111111111111111111111111111111111112",
+        "token2_decimals": 9,
+        "amount2": 55978542,
+        "routers": [
+          {
+            "token1": "So11111111111111111111111111111111111111112",
+            "token1_decimals": 9,
+            "amount1": "55948885",
+            "token2": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+            "token2_decimals": 6,
+            "amount2": "11935707",
+            "program_address": "SoLFiHG9TfgtdUXUjWAxi3LtvYuFyDLVhBWxdMZxyCe",
+            "pool_address": "CAPhoEse9xEH95XmdnJjYrZdNCA8xfUWdy3aWymHa1Vj"
+          },
+          {
+            "token1": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+            "token1_decimals": 6,
+            "amount1": "11935707",
+            "token2": "2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv",
+            "token2_decimals": 6,
+            "amount2": "288035677",
+            "program_address": "CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+            "pool_address": "2Qpb9mnNCwkk3VeaeBeac4AB2ZRbqBSiiWLvpif9ve6Z"
+          },
+          {
+            "token1": "2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv",
+            "token1_decimals": 6,
+            "amount1": "288035677",
+            "token2": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+            "token2_decimals": 6,
+            "amount2": "11942115",
+            "program_address": "SoLFiHG9TfgtdUXUjWAxi3LtvYuFyDLVhBWxdMZxyCe",
+            "pool_address": "8LbNkQgvJHkGsF6poBTRzxi3TNEFE7xHzfwQKjMWNLko"
+          },
+          {
+            "token1": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+            "token1_decimals": 6,
+            "amount1": "11942115",
+            "token2": "So11111111111111111111111111111111111111112",
+            "token2_decimals": 9,
+            "amount2": "55978542",
+            "program_address": "LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo",
+            "pool_address": "HTvjzsfX3yU6BUodCjZ5vZkUrAxMDTrBs3CJaq43ashR"
+          }
+        ]
+      },
+      "value": 11.94190236486
+    },
+    {
+      "block_id": 312452386,
+      "trans_id": "4XRUKa9wWTeHJkY9UWgJPcRkzu6ms7aBvy9gmFnrWnxJZz2nJ7k3G2ysNY8Lws9vcqnKu2NSgShAA2r1qXNLDsBB",
+      "block_time": 1736252494,
+      "activity_type": "ACTIVITY_SPL_BURN",
+      "from_address": "JD38n7ynKYcgPpF7k1BhXEeREu1KqptU93fVGy3S624k",
+      "token_address": "EM6fcF2xhn9mmy9mHhrRpvPm16tF5k5r5Lxmdc9z1qKs",
+      "sources": [
+        "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "EM6fcF2xhn9mmy9mHhrRpvPm16tF5k5r5Lxmdc9z1qKs",
+        "token1_decimals": 6,
+        "amount1": 4219485139
+      },
+      "value": -1
+    },
+    {
+      "block_id": 312452386,
+      "trans_id": "4XRUKa9wWTeHJkY9UWgJPcRkzu6ms7aBvy9gmFnrWnxJZz2nJ7k3G2ysNY8Lws9vcqnKu2NSgShAA2r1qXNLDsBB",
+      "block_time": 1736252494,
+      "activity_type": "ACTIVITY_TOKEN_WITHDRAW_VAULT",
+      "from_address": "JD38n7ynKYcgPpF7k1BhXEeREu1KqptU93fVGy3S624k",
+      "sources": [
+        "24Uqj9JCLxUeoC3hGfh5W3s9FM9uCHDS2SG3LYwBpyTi"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "HBV58vtGSRWDppXpaER3KCRU2SyH5Z9YPTF92PTwKvzq",
+        "token1_decimals": 6,
+        "amount1": "4219485139"
+      },
+      "value": 48.9375976157128
+    },
+    {
+      "block_id": 312452386,
+      "trans_id": "4XRUKa9wWTeHJkY9UWgJPcRkzu6ms7aBvy9gmFnrWnxJZz2nJ7k3G2ysNY8Lws9vcqnKu2NSgShAA2r1qXNLDsBB",
+      "block_time": 1736252494,
+      "activity_type": "ACTIVITY_SPL_MINT",
+      "from_address": "JD38n7ynKYcgPpF7k1BhXEeREu1KqptU93fVGy3S624k",
+      "token_address": "FZN7QZ8ZUUAxMPfxYEYkH3cXUASzH8EqA6B4tyCL8f1j",
+      "sources": [
+        "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "FZN7QZ8ZUUAxMPfxYEYkH3cXUASzH8EqA6B4tyCL8f1j",
+        "token1_decimals": 9,
+        "amount1": 218811427
+      },
+      "value": 18.42719410160993
+    },
+    {
+      "block_id": 312452386,
+      "trans_id": "4XRUKa9wWTeHJkY9UWgJPcRkzu6ms7aBvy9gmFnrWnxJZz2nJ7k3G2ysNY8Lws9vcqnKu2NSgShAA2r1qXNLDsBB",
+      "block_time": 1736252494,
+      "activity_type": "ACTIVITY_TOKEN_DEPOSIT_VAULT",
+      "from_address": "JD38n7ynKYcgPpF7k1BhXEeREu1KqptU93fVGy3S624k",
+      "sources": [
+        "24Uqj9JCLxUeoC3hGfh5W3s9FM9uCHDS2SG3LYwBpyTi"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "So11111111111111111111111111111111111111112",
+        "token1_decimals": 9,
+        "amount1": "234636218"
+      },
+      "value": 50.054944385940004
+    },
+    {
+      "block_id": 312452386,
+      "trans_id": "4XRUKa9wWTeHJkY9UWgJPcRkzu6ms7aBvy9gmFnrWnxJZz2nJ7k3G2ysNY8Lws9vcqnKu2NSgShAA2r1qXNLDsBB",
+      "block_time": 1736252494,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "JD38n7ynKYcgPpF7k1BhXEeREu1KqptU93fVGy3S624k",
+      "sources": [
+        "CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+        "Eo7WjKq67rjJQSZxS6z3YkapzY3eMj6Xy8X5EQVn5UaB",
+        "24Uqj9JCLxUeoC3hGfh5W3s9FM9uCHDS2SG3LYwBpyTi"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+        "token1_decimals": 6,
+        "amount1": 50083472,
+        "token2": "HBV58vtGSRWDppXpaER3KCRU2SyH5Z9YPTF92PTwKvzq",
+        "token2_decimals": 6,
+        "amount2": 4219485139,
+        "routers": [
+          {
+            "token1": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+            "token1_decimals": 6,
+            "amount1": "50083472",
+            "token2": "So11111111111111111111111111111111111111112",
+            "token2_decimals": 9,
+            "amount2": "234753594",
+            "program_address": "CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+            "pool_address": "CYbD9RaToYMtWKA7QZyoLahnHdWq553Vm62Lh6qWtuxq"
+          },
+          {
+            "token1": "So11111111111111111111111111111111111111112",
+            "token1_decimals": 9,
+            "amount1": "234753594",
+            "token2": "HBV58vtGSRWDppXpaER3KCRU2SyH5Z9YPTF92PTwKvzq",
+            "token2_decimals": 6,
+            "amount2": "4219485139",
+            "program_address": "Eo7WjKq67rjJQSZxS6z3YkapzY3eMj6Xy8X5EQVn5UaB",
+            "pool_address": "DiCfVN851aQbyDohRkeMoKgzRe7F7jwwb42TsjhJP92S"
+          }
+        ]
+      },
+      "value": 50.083472
+    },
+    {
+      "block_id": 312452385,
+      "trans_id": "2AdoLqVKrEUcZgR4f4jgiRVny7zQ2rioNnBsGZYF3Lr5cZZnAxvZpg8GgzZt9jh9ZeHeqJeFDkha3KPMFMrtP6Ea",
+      "block_time": 1736252494,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "9QpiMJVDiCnwgFFTmZ3xbMznGgbdE1DA4QCwnos3D6sx",
+      "sources": [
+        "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "So11111111111111111111111111111111111111112",
+        "token1_decimals": 9,
+        "amount1": 1054108505,
+        "token2": "E2QDBwHZxDGo73ohLA1tqtJ6DvcEpmBr12RRVuHg2DPE",
+        "token2_decimals": 6,
+        "amount2": 966109686,
+        "routers": [
+          {
+            "token1": "So11111111111111111111111111111111111111112",
+            "token1_decimals": 9,
+            "amount1": "1054108505",
+            "token2": "E2QDBwHZxDGo73ohLA1tqtJ6DvcEpmBr12RRVuHg2DPE",
+            "token2_decimals": 6,
+            "amount2": "966109686",
+            "program_address": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+            "pool_address": "4Dq2wsa1fxfNfwveXpGW94LGhh2AEqwyPPmLxwzBE5Mk"
+          }
+        ]
+      },
+      "value": 224.87296737165002
+    },
+    {
+      "block_id": 312452385,
+      "trans_id": "2ZMrD2jT9nJuQgGCcpTwe4nMjZsC78JJVQXMJFTwZwZUcSkM1AL9p4qQLxUYcpPvUgfxeohjErhGvkYMVgNMiUjn",
+      "block_time": 1736252494,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "Ee7oGQLorSg8tapxb4ym7Y7vAZUuYHMZEgC6boQQJrcP",
+      "sources": [
+        "swapNyd8XiQwJ6ianp9snpu4brUqFxadzvHebnAXjJZ",
+        "2wT8Yq49kHgDzXuPxZSaeLaH1qbmGXtEyPy64bL7aD3c"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "So11111111111111111111111111111111111111112",
+        "token1_decimals": 9,
+        "amount1": 10677,
+        "token2": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+        "token2_decimals": 6,
+        "amount2": 2277,
+        "routers": [
+          {
+            "token1": "So11111111111111111111111111111111111111112",
+            "token1_decimals": 9,
+            "amount1": "10677",
+            "token2": "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
+            "token2_decimals": 9,
+            "amount2": "8533",
+            "program_address": "swapNyd8XiQwJ6ianp9snpu4brUqFxadzvHebnAXjJZ",
+            "pool_address": "CakowQHNvku2CDVDprpvdsQGDKv35TEagjEUNoKwvoQH"
+          },
+          {
+            "token1": "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
+            "token1_decimals": 9,
+            "amount1": "8533",
+            "token2": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+            "token2_decimals": 6,
+            "amount2": "2277",
+            "program_address": "2wT8Yq49kHgDzXuPxZSaeLaH1qbmGXtEyPy64bL7aD3c",
+            "pool_address": "HvtYZ3e8JPhy7rm6kvWVB2jJUddyytkLcwTMSSnB7T3U"
+          }
+        ]
+      },
+      "value": 0.002277
+    },
+    {
+      "block_id": 312452385,
+      "trans_id": "2TWad95Gmb3ZxbFgx4x6FVwdqzkSDyBwFS7TC6PKceN3nSAXUxrKQqoe2XxSWcjF5a7h7CkEbC4aTFcR4ALxa6Tu",
+      "block_time": 1736252494,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "EyF6AYttUAKymV6cyPkeLnk1126hEsDKNAjtWfQQWnAF",
+      "sources": [
+        "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "3aHGHRDSn2QLoSF9uygcChBhzPknrcGV4rHNWKToUvYa",
+        "token1_decimals": 6,
+        "amount1": 5921685811,
+        "token2": "So11111111111111111111111111111111111111112",
+        "token2_decimals": 9,
+        "amount2": 315373832,
+        "routers": [
+          {
+            "token1": "3aHGHRDSn2QLoSF9uygcChBhzPknrcGV4rHNWKToUvYa",
+            "token1_decimals": 6,
+            "amount1": "5921685811",
+            "token2": "So11111111111111111111111111111111111111112",
+            "token2_decimals": 9,
+            "amount2": "315373832",
+            "program_address": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+            "pool_address": "38iZLvuTLPtXjDLDLtwQNf5ZHEeGvAP6Dd5ghKqdYvPg"
+          }
+        ]
+      },
+      "value": 67.27869958056
+    },
+    {
+      "block_id": 312452385,
+      "trans_id": "3wfY3y63AXbhTD9zvES1N95dYmMgxcxKXAYHJxWHAkoZUHwEcR8vc7Lhm5LUtDAH2uhRPGEKxzzK5Kt7mj9jkqo1",
+      "block_time": 1736252494,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "9osj5ksZcrYVeft5pjN1KUNpuM9xiZpjLPxtiMHG4AT5",
+      "sources": [
+        "CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+        "SoLFiHG9TfgtdUXUjWAxi3LtvYuFyDLVhBWxdMZxyCe",
+        "whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "So11111111111111111111111111111111111111112",
+        "token1_decimals": 9,
+        "amount1": 128445926,
+        "token2": "So11111111111111111111111111111111111111112",
+        "token2_decimals": 9,
+        "amount2": 128466262,
+        "routers": [
+          {
+            "token1": "So11111111111111111111111111111111111111112",
+            "token1_decimals": 9,
+            "amount1": "128445926",
+            "token2": "7GCihgDB8fe6KNjn2MYtkzZcRjQy3t9GHdC8uHYmW2hr",
+            "token2_decimals": 9,
+            "amount2": "34493808926",
+            "program_address": "CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+            "pool_address": "7bLEFh4c4mBMPnmnLbCd2KS7ifH6XFSsw8qQLpaFfQTN"
+          },
+          {
+            "token1": "7GCihgDB8fe6KNjn2MYtkzZcRjQy3t9GHdC8uHYmW2hr",
+            "token1_decimals": 9,
+            "amount1": "34493808926",
+            "token2": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+            "token2_decimals": 6,
+            "amount2": "27405566",
+            "program_address": "SoLFiHG9TfgtdUXUjWAxi3LtvYuFyDLVhBWxdMZxyCe",
+            "pool_address": "BAP9tycZkEFJMzvHsgXohXFwiqpuWECHBoknyJGVPwzj"
+          },
+          {
+            "token1": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+            "token1_decimals": 6,
+            "amount1": "27405566",
+            "token2": "So11111111111111111111111111111111111111112",
+            "token2_decimals": 9,
+            "amount2": "128466262",
+            "program_address": "whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc",
+            "pool_address": "83v8iPyZihDEjDdY8RdZddyZNyUtXngz69Lgo9Kt5d6d"
+          }
+        ]
+      },
+      "value": 27.40570767246
+    },
+    {
+      "block_id": 312452385,
+      "trans_id": "2QVH2A1tXysPUqcrbdivuhJSimLnKY7AJcitHJJ9GSwDDKKFRshtTQcsKX7fwNfUTvu3xvas9ZYcBnriy1brhgTS",
+      "block_time": 1736252494,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "Ee7oGQLorSg8tapxb4ym7Y7vAZUuYHMZEgC6boQQJrcP",
+      "sources": [
+        "LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo",
+        "SoLFiHG9TfgtdUXUjWAxi3LtvYuFyDLVhBWxdMZxyCe"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "So11111111111111111111111111111111111111112",
+        "token1_decimals": 9,
+        "amount1": 10678,
+        "token2": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+        "token2_decimals": 6,
+        "amount2": 2278,
+        "routers": [
+          {
+            "token1": "So11111111111111111111111111111111111111112",
+            "token1_decimals": 9,
+            "amount1": "10678",
+            "token2": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+            "token2_decimals": 5,
+            "amount2": "6767784",
+            "program_address": "LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo",
+            "pool_address": "59xpmjjPhrotF35kJsD6KMkeySxW5jz2jWtxgsRS217m"
+          },
+          {
+            "token1": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+            "token1_decimals": 5,
+            "amount1": "6767784",
+            "token2": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+            "token2_decimals": 6,
+            "amount2": "2278",
+            "program_address": "SoLFiHG9TfgtdUXUjWAxi3LtvYuFyDLVhBWxdMZxyCe",
+            "pool_address": "B2e5QH2GDkRg6hj3y34GCUURBMGskPfX5RAAXe8RBRjS"
+          }
+        ]
+      },
+      "value": 0.002278
+    },
+    {
+      "block_id": 312452385,
+      "trans_id": "FgKX6hiXEr4vKbc3f4oURXfZrcM8AR2c4ZY6fq4pJE3zhcELohRqMeVapM4doPVgdHp4o7georGF4yD8pNCiaz8",
+      "block_time": 1736252494,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "DWUoSgtcQA8g4eeAveYyoEmTXJiryFF9TBPV2S6j2tn1",
+      "sources": [
+        "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "So11111111111111111111111111111111111111112",
+        "token1_decimals": 9,
+        "amount1": 13424,
+        "token2": "5kzKvW343LnnK3Z6WVzQKvJYWZZ55WHesZmcyYhaxXup",
+        "token2_decimals": 6,
+        "amount2": 47600640,
+        "routers": [
+          {
+            "token1": "So11111111111111111111111111111111111111112",
+            "token1_decimals": 9,
+            "amount1": "13424",
+            "token2": "5kzKvW343LnnK3Z6WVzQKvJYWZZ55WHesZmcyYhaxXup",
+            "token2_decimals": 6,
+            "amount2": "47600640",
+            "program_address": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+            "pool_address": "H1VAYAjCVfNWbCHctVWxiUdypagSrZzJBQ55aiDAqtWi"
+          }
+        ]
+      },
+      "value": 0.00286374192
+    },
+    {
+      "block_id": 312452385,
+      "trans_id": "pNBS5jwWEEXLJ5YygaXR2FNgqERaHF1m4zXDVUjUuEXu8PFuCMswGPkHZqic7a7DXovuyymkFerJ3NnCoe2ydXv",
+      "block_time": 1736252494,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "9osj5ksZcrYVeft5pjN1KUNpuM9xiZpjLPxtiMHG4AT5",
+      "sources": [
+        "swapNyd8XiQwJ6ianp9snpu4brUqFxadzvHebnAXjJZ",
+        "LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo",
+        "whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "So11111111111111111111111111111111111111112",
+        "token1_decimals": 9,
+        "amount1": 18893434,
+        "token2": "So11111111111111111111111111111111111111112",
+        "token2_decimals": 9,
+        "amount2": 18900022,
+        "routers": [
+          {
+            "token1": "So11111111111111111111111111111111111111112",
+            "token1_decimals": 9,
+            "amount1": "18893434",
+            "token2": "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
+            "token2_decimals": 9,
+            "amount2": "15104314",
+            "program_address": "swapNyd8XiQwJ6ianp9snpu4brUqFxadzvHebnAXjJZ",
+            "pool_address": "CakowQHNvku2CDVDprpvdsQGDKv35TEagjEUNoKwvoQH"
+          },
+          {
+            "token1": "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
+            "token1_decimals": 9,
+            "amount1": "15104314",
+            "token2": "jupSoLaHXQiZZTSfEWMTRRgpnyFm8f6sZdosWBjx93v",
+            "token2_decimals": 9,
+            "amount2": "17659371",
+            "program_address": "LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo",
+            "pool_address": "7MAxiaoWkpsvJkKueMC4zCTVt7p5osMDtGxfCDZS488k"
+          },
+          {
+            "token1": "jupSoLaHXQiZZTSfEWMTRRgpnyFm8f6sZdosWBjx93v",
+            "token1_decimals": 9,
+            "amount1": "17659371",
+            "token2": "So11111111111111111111111111111111111111112",
+            "token2_decimals": 9,
+            "amount2": "18900022",
+            "program_address": "whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc",
+            "pool_address": "DtYKbQELgMZ3ihFUrCcCs9gy4djcUuhwgR7UpxVpP2Tg"
+          }
+        ]
+      },
+      "value": 4.03194169326
+    },
+    {
+      "block_id": 312452385,
+      "trans_id": "5eSYW7Sx8qoSb6ihc6WuZXToofvUac8JqSuLj6XQ2FHXa9ErSc6aWCfGKXVwkY6tJ7zKtxyHSCrn89THpepgPyr8",
+      "block_time": 1736252494,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "JD38n7ynKYcgPpF7k1BhXEeREu1KqptU93fVGy3S624k",
+      "sources": [
+        "CPMMoo8L3F4NbTegBCKVNunggL7H1ZpdTHKxQB5qKP1C"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "Ht8Sgrn3mABFXjg26ivNozMZuv7xaRBJQJ1TeNUboMxZ",
+        "token1_decimals": 6,
+        "amount1": 356705588,
+        "token2": "ATzxmruRw3nBFrbXHAw2pVif35uus8SRNfMtxHdAuApB",
+        "token2_decimals": 6,
+        "amount2": 5746616,
+        "routers": [
+          {
+            "token1": "Ht8Sgrn3mABFXjg26ivNozMZuv7xaRBJQJ1TeNUboMxZ",
+            "token1_decimals": 6,
+            "amount1": "356705588",
+            "token2": "ATzxmruRw3nBFrbXHAw2pVif35uus8SRNfMtxHdAuApB",
+            "token2_decimals": 6,
+            "amount2": "5746616",
+            "program_address": "CPMMoo8L3F4NbTegBCKVNunggL7H1ZpdTHKxQB5qKP1C",
+            "pool_address": "BBUsXmPorBQCz1KDs7QU6iV1GDUkebie4jNtBwi8CJZH"
+          }
+        ]
+      },
+      "value": -1
+    },
+    {
+      "block_id": 312452385,
+      "trans_id": "4L88mLurGVbuzERk6CbunL5Q2Ptw59gWcgKsiPwT5wQ4grZVfvrULQuZ9XKqP14C2XmLg7Y4Ur56CyhNLQ42c4JT",
+      "block_time": 1736252494,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "9UQBLNKn7wtrGMeNG5hZHpxmCy8f3ei2NJdRWENNwDj8",
+      "sources": [
+        "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "3aHGHRDSn2QLoSF9uygcChBhzPknrcGV4rHNWKToUvYa",
+        "token1_decimals": 6,
+        "amount1": 1948898491,
+        "token2": "So11111111111111111111111111111111111111112",
+        "token2_decimals": 9,
+        "amount2": 103851948,
+        "routers": [
+          {
+            "token1": "3aHGHRDSn2QLoSF9uygcChBhzPknrcGV4rHNWKToUvYa",
+            "token1_decimals": 6,
+            "amount1": "1948898491",
+            "token2": "So11111111111111111111111111111111111111112",
+            "token2_decimals": 9,
+            "amount2": "103851948",
+            "program_address": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+            "pool_address": "38iZLvuTLPtXjDLDLtwQNf5ZHEeGvAP6Dd5ghKqdYvPg"
+          }
+        ]
+      },
+      "value": 22.15473606684
+    },
+    {
+      "block_id": 312452385,
+      "trans_id": "2QndGrcsnLMxz5hbHmSrdmUiixgXoRL4Z2FmgjCDbHU4WyBe4KcjR7D49DYfRvZrJigfHBYdKxrsTNpZShEVf8pN",
+      "block_time": 1736252494,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "14Bzz3htzVPR3X7rkytoappkUZbZYrUdudCmJMtiDDMm",
+      "sources": [
+        "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "So11111111111111111111111111111111111111112",
+        "token1_decimals": 9,
+        "amount1": 18260458,
+        "token2": "E2QDBwHZxDGo73ohLA1tqtJ6DvcEpmBr12RRVuHg2DPE",
+        "token2_decimals": 6,
+        "amount2": 16753016,
+        "routers": [
+          {
+            "token1": "So11111111111111111111111111111111111111112",
+            "token1_decimals": 9,
+            "amount1": "18260458",
+            "token2": "E2QDBwHZxDGo73ohLA1tqtJ6DvcEpmBr12RRVuHg2DPE",
+            "token2_decimals": 6,
+            "amount2": "16753016",
+            "program_address": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+            "pool_address": "4Dq2wsa1fxfNfwveXpGW94LGhh2AEqwyPPmLxwzBE5Mk"
+          }
+        ]
+      },
+      "value": 3.8955035051399998
+    },
+    {
+      "block_id": 312452385,
+      "trans_id": "2qMKpghNBDzbokWh1UG3gFc9jYmEUSD9LMpCZ6bjCYW9cxbmXbTTnTPDzxYWmvC8SSThNMaqwRhsnpNEzSvjQoeG",
+      "block_time": 1736252494,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "Cf5Jcrin99mC1L983xZq87Drc4TEF9hVN648Nkxb3xT8",
+      "sources": [
+        "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "So11111111111111111111111111111111111111112",
+        "token1_decimals": 9,
+        "amount1": 12702384,
+        "token2": "3aHGHRDSn2QLoSF9uygcChBhzPknrcGV4rHNWKToUvYa",
+        "token2_decimals": 6,
+        "amount2": 237155040,
+        "routers": [
+          {
+            "token1": "So11111111111111111111111111111111111111112",
+            "token1_decimals": 9,
+            "amount1": "12702384",
+            "token2": "3aHGHRDSn2QLoSF9uygcChBhzPknrcGV4rHNWKToUvYa",
+            "token2_decimals": 6,
+            "amount2": "237155040",
+            "program_address": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+            "pool_address": "38iZLvuTLPtXjDLDLtwQNf5ZHEeGvAP6Dd5ghKqdYvPg"
+          }
+        ]
+      },
+      "value": 2.70979957872
+    },
+    {
+      "block_id": 312452385,
+      "trans_id": "56wHnoSfRkUpQxCeYPfjNvgKHpfu3athnDTrdghXWruMDUP6qVrGhso9bRTvVcJc112UB5ADTmuHwd4HFDJrGh7A",
+      "block_time": 1736252494,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "9osj5ksZcrYVeft5pjN1KUNpuM9xiZpjLPxtiMHG4AT5",
+      "sources": [
+        "whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc",
+        "LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo",
+        "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "So11111111111111111111111111111111111111112",
+        "token1_decimals": 9,
+        "amount1": 14011440,
+        "token2": "So11111111111111111111111111111111111111112",
+        "token2_decimals": 9,
+        "amount2": 14018855,
+        "routers": [
+          {
+            "token1": "So11111111111111111111111111111111111111112",
+            "token1_decimals": 9,
+            "amount1": "14011440",
+            "token2": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+            "token2_decimals": 5,
+            "amount2": "8873245369",
+            "program_address": "whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc",
+            "pool_address": "4VG8VFNo3EXiTA75mhh48qv55S6m3VA2uTQCzEt8kczb"
+          },
+          {
+            "token1": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+            "token1_decimals": 5,
+            "amount1": "8873245369",
+            "token2": "3S8qX1MsMqRbiwKg2cQyx7nis1oHMgaCuc9c4VfvVdPN",
+            "token2_decimals": 6,
+            "amount2": "95050110",
+            "program_address": "LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo",
+            "pool_address": "DTgMM5brXdg68HtGirUpXFMksn1uDgZkkTMPPDk1KLey"
+          },
+          {
+            "token1": "3S8qX1MsMqRbiwKg2cQyx7nis1oHMgaCuc9c4VfvVdPN",
+            "token1_decimals": 6,
+            "amount1": "95050110",
+            "token2": "So11111111111111111111111111111111111111112",
+            "token2_decimals": 9,
+            "amount2": "14018855",
+            "program_address": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+            "pool_address": "HcPgh6B2yHNvT6JsEmkrHYT8pVHu9Xiaoxm4Mmn2ibWw"
+          }
+        ]
+      },
+      "value": 2.99064233715
+    },
+    {
+      "block_id": 312452385,
+      "trans_id": "3Vi19DffjkGKqoynioHw5dc79YCRjqomFXaGf4LJq34H2fyr28zJYChGHmHSHPcJA6qMv5xJLuuR9CRaPTKaPDqt",
+      "block_time": 1736252494,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "FDoQiNz4zzWCbL4UHnuWQLZPJ4enEKT1zXLaAyngY8Zz",
+      "sources": [
+        "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "So11111111111111111111111111111111111111112",
+        "token1_decimals": 9,
+        "amount1": 8986180,
+        "token2": "3aHGHRDSn2QLoSF9uygcChBhzPknrcGV4rHNWKToUvYa",
+        "token2_decimals": 6,
+        "amount2": 167777942,
+        "routers": [
+          {
+            "token1": "So11111111111111111111111111111111111111112",
+            "token1_decimals": 9,
+            "amount1": "8986180",
+            "token2": "3aHGHRDSn2QLoSF9uygcChBhzPknrcGV4rHNWKToUvYa",
+            "token2_decimals": 6,
+            "amount2": "167777942",
+            "program_address": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+            "pool_address": "38iZLvuTLPtXjDLDLtwQNf5ZHEeGvAP6Dd5ghKqdYvPg"
+          }
+        ]
+      },
+      "value": 1.9170217794000002
+    },
+    {
+      "block_id": 312452385,
+      "trans_id": "5bDcV4fhtKx5anA3zkPAJxsGMK8GUEdCMuTJ65XB2htYrdKVgw3g4QGWBnxKE9q5TC6cpYkmZdbAhGpTf49RfSFi",
+      "block_time": 1736252494,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "n8bRvZjAzw9hCTTsNHbuZHdwajPLVoEfkYKRvh235TL",
+      "sources": [
+        "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "So11111111111111111111111111111111111111112",
+        "token1_decimals": 9,
+        "amount1": 18933063,
+        "token2": "E2QDBwHZxDGo73ohLA1tqtJ6DvcEpmBr12RRVuHg2DPE",
+        "token2_decimals": 6,
+        "amount2": 17370708,
+        "routers": [
+          {
+            "token1": "So11111111111111111111111111111111111111112",
+            "token1_decimals": 9,
+            "amount1": "18933063",
+            "token2": "E2QDBwHZxDGo73ohLA1tqtJ6DvcEpmBr12RRVuHg2DPE",
+            "token2_decimals": 6,
+            "amount2": "17370708",
+            "program_address": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+            "pool_address": "4Dq2wsa1fxfNfwveXpGW94LGhh2AEqwyPPmLxwzBE5Mk"
+          }
+        ]
+      },
+      "value": 4.03899032979
+    },
+    {
+      "block_id": 312452385,
+      "trans_id": "2wLCPtHeGXNXVix9rJRcdMmFiNYkjBr38q4i9aAfdtE4tKtuTeTUJJj5uPW3TXPCGdVQCVHAgWjWTQ6t21B2Ejn",
+      "block_time": 1736252494,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "JD25qVdtd65FoiXNmR89JjmoJdYk9sjYQeSTZAALFiMy",
+      "sources": [
+        "CPMMoo8L3F4NbTegBCKVNunggL7H1ZpdTHKxQB5qKP1C"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "GzAFVCBvWfdyjWxvn1QXqSSS5caSTi62t9aCC6nV3ivD",
+        "token1_decimals": 6,
+        "amount1": 154187614,
+        "token2": "3iHMnc58WuVhBoEfkJKkUYDAypAe9XQKA11Luo5HkPpR",
+        "token2_decimals": 6,
+        "amount2": 6856898,
+        "routers": [
+          {
+            "token1": "GzAFVCBvWfdyjWxvn1QXqSSS5caSTi62t9aCC6nV3ivD",
+            "token1_decimals": 6,
+            "amount1": "154187614",
+            "token2": "3iHMnc58WuVhBoEfkJKkUYDAypAe9XQKA11Luo5HkPpR",
+            "token2_decimals": 6,
+            "amount2": "6856898",
+            "program_address": "CPMMoo8L3F4NbTegBCKVNunggL7H1ZpdTHKxQB5qKP1C",
+            "pool_address": "7sYnCpYtrP18gsCdCiZpP24poksupx353GZCM4BfSsrG"
+          }
+        ]
+      },
+      "value": -1
+    },
+    {
+      "block_id": 312452385,
+      "trans_id": "67VWBmRJPgMb7m54BzdrAkLpF1e2WqRxg3CCpkkKQ9edC8cS8iWVkcT8Qu7faTvnJXGQQGQp9c3K5exiYiXD9m6q",
+      "block_time": 1736252494,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "2XmsZAmB8kYUhjUyJCBxeb4GCsKmw7gQB8SGrgmpqtuj",
+      "sources": [
+        "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "So11111111111111111111111111111111111111112",
+        "token1_decimals": 9,
+        "amount1": 10640260,
+        "token2": "3aHGHRDSn2QLoSF9uygcChBhzPknrcGV4rHNWKToUvYa",
+        "token2_decimals": 6,
+        "amount2": 198665957,
+        "routers": [
+          {
+            "token1": "So11111111111111111111111111111111111111112",
+            "token1_decimals": 9,
+            "amount1": "10640260",
+            "token2": "3aHGHRDSn2QLoSF9uygcChBhzPknrcGV4rHNWKToUvYa",
+            "token2_decimals": 6,
+            "amount2": "198665957",
+            "program_address": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+            "pool_address": "38iZLvuTLPtXjDLDLtwQNf5ZHEeGvAP6Dd5ghKqdYvPg"
+          }
+        ]
+      },
+      "value": 2.2698866658
+    },
+    {
+      "block_id": 312452385,
+      "trans_id": "2HCCutTpa5mUkFB4rrAvE5SyHepfuqQcQ4ZkmxAazvaxbXR6LhYRDkPddTKuWt88NLcrjouZAnSSJuDG4WCiBTWH",
+      "block_time": 1736252494,
+      "activity_type": "ACTIVITY_SPL_BURN",
+      "from_address": "D8zYaKLPqNt1W6XJ5kLCS4xJ2eG9ET8cZ3c26HYDgwQX",
+      "token_address": "FZN7QZ8ZUUAxMPfxYEYkH3cXUASzH8EqA6B4tyCL8f1j",
+      "sources": [
+        "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "FZN7QZ8ZUUAxMPfxYEYkH3cXUASzH8EqA6B4tyCL8f1j",
+        "token1_decimals": 9,
+        "amount1": 3019983
+      },
+      "value": 0.2543277272469059
+    },
+    {
+      "block_id": 312452385,
+      "trans_id": "2HCCutTpa5mUkFB4rrAvE5SyHepfuqQcQ4ZkmxAazvaxbXR6LhYRDkPddTKuWt88NLcrjouZAnSSJuDG4WCiBTWH",
+      "block_time": 1736252494,
+      "activity_type": "ACTIVITY_TOKEN_WITHDRAW_VAULT",
+      "from_address": "D8zYaKLPqNt1W6XJ5kLCS4xJ2eG9ET8cZ3c26HYDgwQX",
+      "sources": [
+        "24Uqj9JCLxUeoC3hGfh5W3s9FM9uCHDS2SG3LYwBpyTi"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "So11111111111111111111111111111111111111112",
+        "token1_decimals": 9,
+        "amount1": "3238392"
+      },
+      "value": 0.6908461653600001
+    },
+    {
+      "block_id": 312452385,
+      "trans_id": "2HCCutTpa5mUkFB4rrAvE5SyHepfuqQcQ4ZkmxAazvaxbXR6LhYRDkPddTKuWt88NLcrjouZAnSSJuDG4WCiBTWH",
+      "block_time": 1736252494,
+      "activity_type": "ACTIVITY_SPL_MINT",
+      "from_address": "D8zYaKLPqNt1W6XJ5kLCS4xJ2eG9ET8cZ3c26HYDgwQX",
+      "token_address": "8hqrNrDPhMiYgFfo8nERh8hCtVtiBwZXgWZrP8B2jyJc",
+      "sources": [
+        "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "8hqrNrDPhMiYgFfo8nERh8hCtVtiBwZXgWZrP8B2jyJc",
+        "token1_decimals": 6,
+        "amount1": 9129832
+      },
+      "value": -1
+    },
+    {
+      "block_id": 312452385,
+      "trans_id": "2HCCutTpa5mUkFB4rrAvE5SyHepfuqQcQ4ZkmxAazvaxbXR6LhYRDkPddTKuWt88NLcrjouZAnSSJuDG4WCiBTWH",
+      "block_time": 1736252494,
+      "activity_type": "ACTIVITY_TOKEN_DEPOSIT_VAULT",
+      "from_address": "D8zYaKLPqNt1W6XJ5kLCS4xJ2eG9ET8cZ3c26HYDgwQX",
+      "sources": [
+        "24Uqj9JCLxUeoC3hGfh5W3s9FM9uCHDS2SG3LYwBpyTi"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "7XJiwLDrjzxDYdZipnJXzpr1iDTmK55XixSFAa7JgNEL",
+        "token1_decimals": 6,
+        "amount1": "9129832"
+      },
+      "value": 0.719768565384
+    },
+    {
+      "block_id": 312452385,
+      "trans_id": "2HCCutTpa5mUkFB4rrAvE5SyHepfuqQcQ4ZkmxAazvaxbXR6LhYRDkPddTKuWt88NLcrjouZAnSSJuDG4WCiBTWH",
+      "block_time": 1736252494,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "D8zYaKLPqNt1W6XJ5kLCS4xJ2eG9ET8cZ3c26HYDgwQX",
+      "sources": [
+        "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+        "Eo7WjKq67rjJQSZxS6z3YkapzY3eMj6Xy8X5EQVn5UaB",
+        "24Uqj9JCLxUeoC3hGfh5W3s9FM9uCHDS2SG3LYwBpyTi"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "So11111111111111111111111111111111111111112",
+        "token1_decimals": 9,
+        "amount1": 3232255,
+        "token2": "So11111111111111111111111111111111111111112",
+        "token2_decimals": 9,
+        "amount2": 3238392,
+        "routers": [
+          {
+            "token1": "So11111111111111111111111111111111111111112",
+            "token1_decimals": 9,
+            "amount1": "3232255",
+            "token2": "7XJiwLDrjzxDYdZipnJXzpr1iDTmK55XixSFAa7JgNEL",
+            "token2_decimals": 6,
+            "amount2": "9134399",
+            "program_address": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+            "pool_address": "F4HDXnULqjSbWcL5VwEUcpjueQop3gDteusSqaXBEyW4"
+          },
+          {
+            "token1": "7XJiwLDrjzxDYdZipnJXzpr1iDTmK55XixSFAa7JgNEL",
+            "token1_decimals": 6,
+            "amount1": "9134399",
+            "token2": "So11111111111111111111111111111111111111112",
+            "token2_decimals": 9,
+            "amount2": "3238392",
+            "program_address": "Eo7WjKq67rjJQSZxS6z3YkapzY3eMj6Xy8X5EQVn5UaB",
+            "pool_address": "3EikAqSKjUUm4gmTLFxuaxeA61fxpzdasAmoN4wuSjCL"
+          }
+        ]
+      },
+      "value": 0.6908461653600001
+    },
+    {
+      "block_id": 312452385,
+      "trans_id": "LbLHyvw5F3Cdm9SyMGHpS3tVuT34iCwoWZMBr6f4c9S4EMMmaWEnQqGyxRp9f6AUC3XD4Fe2jRorTF6P6W6gnqK",
+      "block_time": 1736252494,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "CMS5SGVB9rGCMn3SdmpPCpcfDqNdmG5SRSj62dkivC5w",
+      "sources": [
+        "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+        "LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "So11111111111111111111111111111111111111112",
+        "token1_decimals": 9,
+        "amount1": 12181712,
+        "token2": "So11111111111111111111111111111111111111112",
+        "token2_decimals": 9,
+        "amount2": 12207077,
+        "routers": [
+          {
+            "token1": "So11111111111111111111111111111111111111112",
+            "token1_decimals": 9,
+            "amount1": "12181712",
+            "token2": "YAFAJvjUv9MVAKcTE7Y8ouo45QNKVK6fCMzdxt2tjPs",
+            "token2_decimals": 6,
+            "amount2": "167425837",
+            "program_address": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+            "pool_address": "G4P3ptRvrM9qzvfy4K5aPnq8KnbCQCU8uGxTYoM8Uumt"
+          },
+          {
+            "token1": "YAFAJvjUv9MVAKcTE7Y8ouo45QNKVK6fCMzdxt2tjPs",
+            "token1_decimals": 6,
+            "amount1": "167425837",
+            "token2": "So11111111111111111111111111111111111111112",
+            "token2_decimals": 9,
+            "amount2": "12207077",
+            "program_address": "LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo",
+            "pool_address": "rY4Ei3bv8WymU8AFQhgcpndQ8XtsmaU4ASu6JwZmVAr"
+          }
+        ]
+      },
+      "value": 2.6041357364100004
+    },
+    {
+      "block_id": 312452385,
+      "trans_id": "DEMqeU7BRcoDaLYoAzKZgbWHS4Q2tsSnQcz5W9D3CSRNXiFHbmq9cjhoauYBBzU3rYukZySt3fFehME6ou9mF69",
+      "block_time": 1736252494,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "HmW2MvbrbZTuTcq8Ka6awjiBhMTjYqy7p5y8CudufTia",
+      "sources": [
+        "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "So11111111111111111111111111111111111111112",
+        "token1_decimals": 9,
+        "amount1": 13615266,
+        "token2": "GRNG6Fe5XamTgMMw29GBaGpQJYuf9JPz3sJ1JHfuEFPu",
+        "token2_decimals": 6,
+        "amount2": 769591343,
+        "routers": [
+          {
+            "token1": "So11111111111111111111111111111111111111112",
+            "token1_decimals": 9,
+            "amount1": "13615266",
+            "token2": "GRNG6Fe5XamTgMMw29GBaGpQJYuf9JPz3sJ1JHfuEFPu",
+            "token2_decimals": 6,
+            "amount2": "769591343",
+            "program_address": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+            "pool_address": "D4mnzt16TJxsjiW9fUjFUgwjkb8WB5RvKEEJJEeGou5N"
+          }
+        ]
+      },
+      "value": 2.90454469578
+    },
+    {
+      "block_id": 312452385,
+      "trans_id": "4iZZoRckY4JvnENNCiMJXr378vff2omd5q7aRMbi7vD2ZEc4Nzo5boKSyBGMQKp6by79mhZv5QURU1qkF7fNbL39",
+      "block_time": 1736252494,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "5b3fdi6ZMfRjwN1DobL8qLMWF9BzU2jsJidojkmNj764",
+      "sources": [
+        "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "E2QDBwHZxDGo73ohLA1tqtJ6DvcEpmBr12RRVuHg2DPE",
+        "token1_decimals": 6,
+        "amount1": 2002161017,
+        "token2": "So11111111111111111111111111111111111111112",
+        "token2_decimals": 9,
+        "amount2": 2175793105,
+        "routers": [
+          {
+            "token1": "E2QDBwHZxDGo73ohLA1tqtJ6DvcEpmBr12RRVuHg2DPE",
+            "token1_decimals": 6,
+            "amount1": "2002161017",
+            "token2": "So11111111111111111111111111111111111111112",
+            "token2_decimals": 9,
+            "amount2": "2175793105",
+            "program_address": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+            "pool_address": "4Dq2wsa1fxfNfwveXpGW94LGhh2AEqwyPPmLxwzBE5Mk"
+          }
+        ]
+      },
+      "value": 464.16194308965
+    },
+    {
+      "block_id": 312452385,
+      "trans_id": "5Ad9FvrSFsCymJCXwzYzjbHqHebsQm6nZJHFtgKBxYMe8PpfsLmnJrKBhYW4cdfXUdh3YomZLm8Tk8yt6bWCgpGS",
+      "block_time": 1736252494,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "8ja63PgNcrWFrYQB2DcbCSVBmwyBeCe8RjGoAK7FW6hs",
+      "sources": [
+        "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "So11111111111111111111111111111111111111112",
+        "token1_decimals": 9,
+        "amount1": 1601043,
+        "token2": "3aHGHRDSn2QLoSF9uygcChBhzPknrcGV4rHNWKToUvYa",
+        "token2_decimals": 6,
+        "amount2": 29893808,
+        "routers": [
+          {
+            "token1": "So11111111111111111111111111111111111111112",
+            "token1_decimals": 9,
+            "amount1": "1601043",
+            "token2": "3aHGHRDSn2QLoSF9uygcChBhzPknrcGV4rHNWKToUvYa",
+            "token2_decimals": 6,
+            "amount2": "29893808",
+            "program_address": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+            "pool_address": "38iZLvuTLPtXjDLDLtwQNf5ZHEeGvAP6Dd5ghKqdYvPg"
+          }
+        ]
+      },
+      "value": 0.34155050319
+    },
+    {
+      "block_id": 312452385,
+      "trans_id": "3ZCzVqadkcwYwr3sZ2d2fjtEqffi46oRgmGrgm2wAMXKbMYkYkNb1Aad4nHtkBPhm2JLAyzu4P1Yik3y1GWK1Baf",
+      "block_time": 1736252494,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "4XM2PQQxoVVi7jZnGw39BGERK9icmi7zo4CcqzAqbj7y",
+      "sources": [
+        "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "HMAikgk8bF994rP3bFPXNY1AePLAJNHu1do8RvtxqU63",
+        "token1_decimals": 6,
+        "amount1": 32017060888,
+        "token2": "So11111111111111111111111111111111111111112",
+        "token2_decimals": 9,
+        "amount2": 1416191339,
+        "routers": [
+          {
+            "token1": "HMAikgk8bF994rP3bFPXNY1AePLAJNHu1do8RvtxqU63",
+            "token1_decimals": 6,
+            "amount1": "32017060888",
+            "token2": "So11111111111111111111111111111111111111112",
+            "token2_decimals": 9,
+            "amount2": "1416191339",
+            "program_address": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+            "pool_address": "CJXGfeoyCmUondRiP5xUmBu1RrrWrziWAeveJntBQtkZ"
+          }
+        ]
+      },
+      "value": 302.11609834887
+    },
+    {
+      "block_id": 312452385,
+      "trans_id": "475C6YSapcxME1zkmVigrVVhYDCv6UDc4NUKXPdUjtZZWoGUoh6q5UUy2MjvXs8B7kUHTuQTKgjVY9cp7L2AVjyR",
+      "block_time": 1736252494,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "JD25qVdtd65FoiXNmR89JjmoJdYk9sjYQeSTZAALFiMy",
+      "sources": [
+        "CPMMoo8L3F4NbTegBCKVNunggL7H1ZpdTHKxQB5qKP1C"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "HdoBnUg5bK3QB1BC4Mqz14mY5VmUufjvUMQjQmvpfSmh",
+        "token1_decimals": 6,
+        "amount1": 195667153,
+        "token2": "22kDnb6yiqEh39BoRJPsdw7HFXXFsHdMjoYbtooQrQj4",
+        "token2_decimals": 6,
+        "amount2": 11361591,
+        "routers": [
+          {
+            "token1": "HdoBnUg5bK3QB1BC4Mqz14mY5VmUufjvUMQjQmvpfSmh",
+            "token1_decimals": 6,
+            "amount1": "195667153",
+            "token2": "22kDnb6yiqEh39BoRJPsdw7HFXXFsHdMjoYbtooQrQj4",
+            "token2_decimals": 6,
+            "amount2": "11361591",
+            "program_address": "CPMMoo8L3F4NbTegBCKVNunggL7H1ZpdTHKxQB5qKP1C",
+            "pool_address": "CCWs9SoHJbAZtrUbebf9YQbANArxtSDJL6bdH1Wpdf1G"
+          }
+        ]
+      },
+      "value": -1
+    },
+    {
+      "block_id": 312452385,
+      "trans_id": "445Gt5cfLFBLdBc2ajG4ehAT7RG1g7R23w7ZdFWAi2XcopWuiXqxhYw6n8ctvAPgxat2neBFYEPSAp6o391PkiAZ",
+      "block_time": 1736252494,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "AcLRMaNQuZFKhABRbYyoi9dKKZR8F6avvFBQZ8syZrvw",
+      "sources": [
+        "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "So11111111111111111111111111111111111111112",
+        "token1_decimals": 9,
+        "amount1": 14460600,
+        "token2": "GRNG6Fe5XamTgMMw29GBaGpQJYuf9JPz3sJ1JHfuEFPu",
+        "token2_decimals": 6,
+        "amount2": 817426209,
+        "routers": [
+          {
+            "token1": "So11111111111111111111111111111111111111112",
+            "token1_decimals": 9,
+            "amount1": "14460600",
+            "token2": "GRNG6Fe5XamTgMMw29GBaGpQJYuf9JPz3sJ1JHfuEFPu",
+            "token2_decimals": 6,
+            "amount2": "817426209",
+            "program_address": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+            "pool_address": "D4mnzt16TJxsjiW9fUjFUgwjkb8WB5RvKEEJJEeGou5N"
+          }
+        ]
+      },
+      "value": 3.0848797980000002
+    },
+    {
+      "block_id": 312452385,
+      "trans_id": "VgP9tv41d18iczAj59ExNs498XWfw59V2cDUm8kBGZscq13nxFgSu1Tzi3ZCes4qQ1iZCk3Z1GfuxHdXXK6zkzM",
+      "block_time": 1736252494,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "F2cGAP6qJDA451KwsdTYzs22vkhsPHJkVrZZ34y3sHFa",
+      "sources": [
+        "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "E2QDBwHZxDGo73ohLA1tqtJ6DvcEpmBr12RRVuHg2DPE",
+        "token1_decimals": 6,
+        "amount1": 2764782042,
+        "token2": "So11111111111111111111111111111111111111112",
+        "token2_decimals": 9,
+        "amount2": 3019371113,
+        "routers": [
+          {
+            "token1": "E2QDBwHZxDGo73ohLA1tqtJ6DvcEpmBr12RRVuHg2DPE",
+            "token1_decimals": 6,
+            "amount1": "2764782042",
+            "token2": "So11111111111111111111111111111111111111112",
+            "token2_decimals": 9,
+            "amount2": "3019371113",
+            "program_address": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+            "pool_address": "4Dq2wsa1fxfNfwveXpGW94LGhh2AEqwyPPmLxwzBE5Mk"
+          }
+        ]
+      },
+      "value": 644.12243953629
+    },
+    {
+      "block_id": 312452385,
+      "trans_id": "4eNav8gDQYJXGNp3UyYxeKu1MTsBXMtVJvn2x7dVr1QX7M7NE51XngevadznAz8EVXqDYM65yAUNzTjEpVAK8PW6",
+      "block_time": 1736252494,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "9KLp5H95hZVEipcF9dpD8xbuZmSztebpEX3EF5KQkas9",
+      "sources": [
+        "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "So11111111111111111111111111111111111111112",
+        "token1_decimals": 9,
+        "amount1": 1408716678,
+        "token2": "HMAikgk8bF994rP3bFPXNY1AePLAJNHu1do8RvtxqU63",
+        "token2_decimals": 6,
+        "amount2": 31688693744,
+        "routers": [
+          {
+            "token1": "So11111111111111111111111111111111111111112",
+            "token1_decimals": 9,
+            "amount1": "1408716678",
+            "token2": "HMAikgk8bF994rP3bFPXNY1AePLAJNHu1do8RvtxqU63",
+            "token2_decimals": 6,
+            "amount2": "31688693744",
+            "program_address": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+            "pool_address": "CJXGfeoyCmUondRiP5xUmBu1RrrWrziWAeveJntBQtkZ"
+          }
+        ]
+      },
+      "value": 300.52152891774
+    },
+    {
+      "block_id": 312452385,
+      "trans_id": "gwbEghsP6Q5WrhUYCCYbxUJ7G9zwX2WvZf1RU22X4fRhPJbw5NjL7kvQk2udFrowAVsUbUe5Jc1zBFrd5CGkxWo",
+      "block_time": 1736252494,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "FzV6RsMVV5Frvb3yAFtk5dEvnjXDJ94kbG1DDgci71sv",
+      "sources": [
+        "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "So11111111111111111111111111111111111111112",
+        "token1_decimals": 9,
+        "amount1": 1538162,
+        "token2": "Es7WfpbnJoaydo3DnLSk2qrvipAHUJho7BfE3d5q3VpN",
+        "token2_decimals": 6,
+        "amount2": 35526480,
+        "routers": [
+          {
+            "token1": "So11111111111111111111111111111111111111112",
+            "token1_decimals": 9,
+            "amount1": "1538162",
+            "token2": "Es7WfpbnJoaydo3DnLSk2qrvipAHUJho7BfE3d5q3VpN",
+            "token2_decimals": 6,
+            "amount2": "35526480",
+            "program_address": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+            "pool_address": "7LQ69XDJeecNYCoPbHNHqAbB6xxiVPorpJVyFdZWPJmX"
+          }
+        ]
+      },
+      "value": 0.32813609946000005
+    },
+    {
+      "block_id": 312452385,
+      "trans_id": "123dauxYmQ18S2rQuB16gT8syLQXpr9Pv4sPc2SYSehcmeecZCYasn13eaa1xKtTL7rdP3djzTvexFs475C87WfN",
+      "block_time": 1736252494,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "6ALieyR1P7zZczyxsCQELoLsXiMzRVFhouFeHR3VASsj",
+      "sources": [
+        "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "3aHGHRDSn2QLoSF9uygcChBhzPknrcGV4rHNWKToUvYa",
+        "token1_decimals": 6,
+        "amount1": 63242469,
+        "token2": "So11111111111111111111111111111111111111112",
+        "token2_decimals": 9,
+        "amount2": 3370212,
+        "routers": [
+          {
+            "token1": "3aHGHRDSn2QLoSF9uygcChBhzPknrcGV4rHNWKToUvYa",
+            "token1_decimals": 6,
+            "amount1": "63242469",
+            "token2": "So11111111111111111111111111111111111111112",
+            "token2_decimals": 9,
+            "amount2": "3370212",
+            "program_address": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+            "pool_address": "38iZLvuTLPtXjDLDLtwQNf5ZHEeGvAP6Dd5ghKqdYvPg"
+          }
+        ]
+      },
+      "value": 0.71896732596
+    },
+    {
+      "block_id": 312452385,
+      "trans_id": "5WNFwMzzDGGCgtzHsyRe99j79by5f5mg6UnyhVoVHtL9y3QYZGBhkVNGV8bK7YgBTPbxJPwfnH1RdgtvK1QiWWoN",
+      "block_time": 1736252494,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "Ep5qMMZPQLjXWBGScnWRLfpKub2GDTuSAuWt6z49Utjd",
+      "sources": [
+        "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "GRNG6Fe5XamTgMMw29GBaGpQJYuf9JPz3sJ1JHfuEFPu",
+        "token1_decimals": 6,
+        "amount1": 4815883,
+        "token2": "So11111111111111111111111111111111111111112",
+        "token2_decimals": 9,
+        "amount2": 84766,
+        "routers": [
+          {
+            "token1": "GRNG6Fe5XamTgMMw29GBaGpQJYuf9JPz3sJ1JHfuEFPu",
+            "token1_decimals": 6,
+            "amount1": "4815883",
+            "token2": "So11111111111111111111111111111111111111112",
+            "token2_decimals": 9,
+            "amount2": "84766",
+            "program_address": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+            "pool_address": "D4mnzt16TJxsjiW9fUjFUgwjkb8WB5RvKEEJJEeGou5N"
+          }
+        ]
+      },
+      "value": 0.01808313078
+    },
+    {
+      "block_id": 312452385,
+      "trans_id": "4gZM7uGwLYivHEuwoDJBg24QGqVPKvxAW18HTph2NjYmC6r3QfAmXy3ndWea524EmQX3b5dJEe8cFePuT5Gdqpdd",
+      "block_time": 1736252494,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "4PL6YTBbEdRjp3y7Nko9GQ9bNHnDWo8qSX4CMPRt1pCF",
+      "sources": [
+        "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "So11111111111111111111111111111111111111112",
+        "token1_decimals": 9,
+        "amount1": 12224475,
+        "token2": "9KfQFESKH6YBQ3MkPwYFY42iZ8xusBEJvPtBzcunR4q2",
+        "token2_decimals": 6,
+        "amount2": 3876442,
+        "routers": [
+          {
+            "token1": "So11111111111111111111111111111111111111112",
+            "token1_decimals": 9,
+            "amount1": "12224475",
+            "token2": "9KfQFESKH6YBQ3MkPwYFY42iZ8xusBEJvPtBzcunR4q2",
+            "token2_decimals": 6,
+            "amount2": "3876442",
+            "program_address": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+            "pool_address": "4e8D5r2Xp75S2KwxDT1Gz5DSHTzUQyredALA3M2AE1Rs"
+          }
+        ]
+      },
+      "value": 2.6078472517500004
+    },
+    {
+      "block_id": 312452385,
+      "trans_id": "3wfX9K4Emzq8qyNAjRL8ysqdGznnSo4v4QEuCi839VjYJTFnHibi8gkL7vaxXWJ83xgmCGLfP3vgF3QHMc3AVha6",
+      "block_time": 1736252494,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "6MsbNx8RLTkDr42u59SHcBjbSwVv9BMdUg44a3hwhaHM",
+      "sources": [
+        "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "So11111111111111111111111111111111111111112",
+        "token1_decimals": 9,
+        "amount1": 19701894,
+        "token2": "HMAikgk8bF994rP3bFPXNY1AePLAJNHu1do8RvtxqU63",
+        "token2_decimals": 6,
+        "amount2": 444094319,
+        "routers": [
+          {
+            "token1": "So11111111111111111111111111111111111111112",
+            "token1_decimals": 9,
+            "amount1": "19701894",
+            "token2": "HMAikgk8bF994rP3bFPXNY1AePLAJNHu1do8RvtxqU63",
+            "token2_decimals": 6,
+            "amount2": "444094319",
+            "program_address": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+            "pool_address": "CJXGfeoyCmUondRiP5xUmBu1RrrWrziWAeveJntBQtkZ"
+          }
+        ]
+      },
+      "value": 4.2030050470199996
+    },
+    {
+      "block_id": 312452385,
+      "trans_id": "4sWMoob25J7cF8kzWKTQy9ktHgw9QDfB24ocXuPtoVTtwWXJJFeHQ46emipBTf6J2wmBbCZ5cWvAc4HGGbD926KV",
+      "block_time": 1736252494,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "Ch4zWGTWDH5d4dCKQNf1LRdmgWWeXyv4AkTLnBQ79ADw",
+      "sources": [
+        "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "So11111111111111111111111111111111111111112",
+        "token1_decimals": 9,
+        "amount1": 10252093,
+        "token2": "CCeqw2mBPYt1Z1GCSZ5QSF4rwk84xxAHqBMXaL8orDgH",
+        "token2_decimals": 6,
+        "amount2": 242182176,
+        "routers": [
+          {
+            "token1": "So11111111111111111111111111111111111111112",
+            "token1_decimals": 9,
+            "amount1": "10252093",
+            "token2": "CCeqw2mBPYt1Z1GCSZ5QSF4rwk84xxAHqBMXaL8orDgH",
+            "token2_decimals": 6,
+            "amount2": "242182176",
+            "program_address": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+            "pool_address": "CfTicbZrDnyWsLa5aEUuJK8ccyehcCDCBVBpC9pDN4Pu"
+          }
+        ]
+      },
+      "value": 2.18707899969
+    },
+    {
+      "block_id": 312452385,
+      "trans_id": "2Tt34HLUPemPh2u9uMLukGHTgZyjrYnqCA76aejo7jqbBVSmniCpmu1J3yPL1Hnqpnxwv2xPXLTz7BxdUEbmPqEX",
+      "block_time": 1736252494,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "CFkJgqKPvoQxoyXH39No9m6ySe6LnjnaYgpH7fF7eB3T",
+      "sources": [
+        "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "Es7WfpbnJoaydo3DnLSk2qrvipAHUJho7BfE3d5q3VpN",
+        "token1_decimals": 6,
+        "amount1": 310282948,
+        "token2": "So11111111111111111111111111111111111111112",
+        "token2_decimals": 9,
+        "amount2": 13367215,
+        "routers": [
+          {
+            "token1": "Es7WfpbnJoaydo3DnLSk2qrvipAHUJho7BfE3d5q3VpN",
+            "token1_decimals": 6,
+            "amount1": "310282948",
+            "token2": "So11111111111111111111111111111111111111112",
+            "token2_decimals": 9,
+            "amount2": "13367215",
+            "program_address": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+            "pool_address": "7LQ69XDJeecNYCoPbHNHqAbB6xxiVPorpJVyFdZWPJmX"
+          }
+        ]
+      },
+      "value": 2.85162797595
+    },
+    {
+      "block_id": 312452385,
+      "trans_id": "4NMUW6mEaKKdJjNZYymE1NPiWoMQHgaX7XSVaBU2XDE96unNXKbasCU5JBguEF1QeoHPhvLUvN95d5mCic5QZXjN",
+      "block_time": 1736252494,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "9bT6xxAGJ6NF2hfFbQhmkUZAnozG2N9mAtr5M5DZSCd3",
+      "sources": [
+        "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "3aHGHRDSn2QLoSF9uygcChBhzPknrcGV4rHNWKToUvYa",
+        "token1_decimals": 6,
+        "amount1": 4571898246,
+        "token2": "So11111111111111111111111111111111111111112",
+        "token2_decimals": 9,
+        "amount2": 243719192,
+        "routers": [
+          {
+            "token1": "3aHGHRDSn2QLoSF9uygcChBhzPknrcGV4rHNWKToUvYa",
+            "token1_decimals": 6,
+            "amount1": "4571898246",
+            "token2": "So11111111111111111111111111111111111111112",
+            "token2_decimals": 9,
+            "amount2": "243719192",
+            "program_address": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+            "pool_address": "38iZLvuTLPtXjDLDLtwQNf5ZHEeGvAP6Dd5ghKqdYvPg"
+          }
+        ]
+      },
+      "value": 51.992615229360005
+    },
+    {
+      "block_id": 312452385,
+      "trans_id": "3caUgANoodb6yBFR6mXKGmPBYvEGbL4B7s52ZFyz1fonS8fLeA5ACACQmYj6wfoFg2C3PzDr64Jk8bt1WyJVNjgY",
+      "block_time": 1736252494,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "JD38n7ynKYcgPpF7k1BhXEeREu1KqptU93fVGy3S624k",
+      "sources": [
+        "CPMMoo8L3F4NbTegBCKVNunggL7H1ZpdTHKxQB5qKP1C"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "HdoBnUg5bK3QB1BC4Mqz14mY5VmUufjvUMQjQmvpfSmh",
+        "token1_decimals": 6,
+        "amount1": 465116279,
+        "token2": "22kDnb6yiqEh39BoRJPsdw7HFXXFsHdMjoYbtooQrQj4",
+        "token2_decimals": 6,
+        "amount2": 27007586,
+        "routers": [
+          {
+            "token1": "HdoBnUg5bK3QB1BC4Mqz14mY5VmUufjvUMQjQmvpfSmh",
+            "token1_decimals": 6,
+            "amount1": "465116279",
+            "token2": "22kDnb6yiqEh39BoRJPsdw7HFXXFsHdMjoYbtooQrQj4",
+            "token2_decimals": 6,
+            "amount2": "27007586",
+            "program_address": "CPMMoo8L3F4NbTegBCKVNunggL7H1ZpdTHKxQB5qKP1C",
+            "pool_address": "CCWs9SoHJbAZtrUbebf9YQbANArxtSDJL6bdH1Wpdf1G"
+          }
+        ]
+      },
+      "value": -1
+    },
+    {
+      "block_id": 312452385,
+      "trans_id": "2hFRXx63iDk6wYTvZ7vwhqkG7unCuQnzWDZpgDrnrMkNnneEs8R8Xg7fkRqq7U4mc2cW6wUxqqiYYRDzSbxuVFK2",
+      "block_time": 1736252494,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "J7c1AZZzcXLUxZ1gjNaW1K1UbnRmEr5QSwx7FHu2Utxs",
+      "sources": [
+        "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+        "CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "So11111111111111111111111111111111111111112",
+        "token1_decimals": 9,
+        "amount1": 38632254,
+        "token2": "So11111111111111111111111111111111111111112",
+        "token2_decimals": 9,
+        "amount2": 38655684,
+        "routers": [
+          {
+            "token1": "So11111111111111111111111111111111111111112",
+            "token1_decimals": 9,
+            "amount1": "38632254",
+            "token2": "5UmDWgyLV1JBg8Jr8NwyezXdQkiU3vHGJu2efm7Cpump",
+            "token2_decimals": 6,
+            "amount2": "582813165",
+            "program_address": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+            "pool_address": "3NQxSWSUAGG4WBKc56XqCc91DpACRfSHXWryoMTHZZri"
+          },
+          {
+            "token1": "5UmDWgyLV1JBg8Jr8NwyezXdQkiU3vHGJu2efm7Cpump",
+            "token1_decimals": 6,
+            "amount1": "582813165",
+            "token2": "So11111111111111111111111111111111111111112",
+            "token2_decimals": 9,
+            "amount2": "38655684",
+            "program_address": "CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+            "pool_address": "9iTtk4zvD3t7hHgPEyCxNPN5eYS7mj21frxjrt4UqK4X"
+          }
+        ]
+      },
+      "value": 8.246417067720001
+    },
+    {
+      "block_id": 312452385,
+      "trans_id": "WUjcD9o8SY9hD3sVjiPnCec2skKzhCbfoUTWxeGRcVctiX8ULWZWtbtt12Y2e1SFbjDMyESwsfaRYG2Kuhci92H",
+      "block_time": 1736252494,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "GM8Fvy48LSuwZ1rd1KzNgWP5xh3jDDfbCMsZZDrFck2q",
+      "sources": [
+        "whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "So11111111111111111111111111111111111111112",
+        "token1_decimals": 9,
+        "amount1": 2344000000,
+        "token2": "61V8vBaqAGMpgDQi4JcAwo1dmBGHsyhzodcPqnEVpump",
+        "token2_decimals": 6,
+        "amount2": 1347058006,
+        "routers": [
+          {
+            "token1": "So11111111111111111111111111111111111111112",
+            "token1_decimals": 9,
+            "amount1": "2344000000",
+            "token2": "61V8vBaqAGMpgDQi4JcAwo1dmBGHsyhzodcPqnEVpump",
+            "token2_decimals": 6,
+            "amount2": "1347058006",
+            "program_address": "whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc",
+            "pool_address": "57mP5WoNrg3uiGFUdoeYr2CPUZak1L2ZgFtyFwoT7K6G"
+          }
+        ]
+      },
+      "value": 500.04552
+    },
+    {
+      "block_id": 312452384,
+      "trans_id": "7ypQhcfbRbrBBwDjmBqUhsyQVEBTbnjV3FUmzFkcyVBnMvZLTbF55UgaNfTsv9i1j3aa3uyj33bCVjazvCam3KU",
+      "block_time": 1736252493,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "eat1947zx4FuVm1crrW35TdHq2ZnngiW84bKnrKCdxT",
+      "sources": [
+        "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+        "LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "So11111111111111111111111111111111111111112",
+        "token1_decimals": 9,
+        "amount1": 156125529,
+        "token2": "So11111111111111111111111111111111111111112",
+        "token2_decimals": 9,
+        "amount2": 156144538,
+        "routers": [
+          {
+            "token1": "So11111111111111111111111111111111111111112",
+            "token1_decimals": 9,
+            "amount1": "156125529",
+            "token2": "DKu9kykSfbN5LBfFXtNNDPaX35o4Fv6vJ9FKk7pZpump",
+            "token2_decimals": 6,
+            "amount2": "197805568",
+            "program_address": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+            "pool_address": "GjvW8JQSpKG5ogjyD3zozfaeJSShTajS5ZFrexT8L12k"
+          },
+          {
+            "token1": "DKu9kykSfbN5LBfFXtNNDPaX35o4Fv6vJ9FKk7pZpump",
+            "token1_decimals": 6,
+            "amount1": "197805568",
+            "token2": "HNg5PYJmtqcmzXrv6S9zP1CDKk5BgDuyFBxbvNApump",
+            "token2_decimals": 6,
+            "amount2": "158170092",
+            "program_address": "LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo",
+            "pool_address": "24eWiNBvBvS744ALMc4rb4vCBJAcQky7hHLwyxmpkrsg"
+          },
+          {
+            "token1": "HNg5PYJmtqcmzXrv6S9zP1CDKk5BgDuyFBxbvNApump",
+            "token1_decimals": 6,
+            "amount1": "158170092",
+            "token2": "So11111111111111111111111111111111111111112",
+            "token2_decimals": 9,
+            "amount2": "156144538",
+            "program_address": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+            "pool_address": "FyDF3vKQFbcvNTsBi7L7LremrFPmXKbQqgAgnPg1hXXd"
+          }
+        ]
+      },
+      "value": 33.31031429154
+    },
+    {
+      "block_id": 312452384,
+      "trans_id": "5eRqE3Mk9mNfPwnhUWRrJa4C15nYozjR6WTu4xAg6R9Gdy9CrBZ5PaJto9tfLFwvN5sK2bzGeGPCXAtooiRrQLeF",
+      "block_time": 1736252493,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "JD1dHSqYkrXvqUVL8s6gzL1yB7kpYymsHfwsGxgwp55h",
+      "sources": [
+        "CPMMoo8L3F4NbTegBCKVNunggL7H1ZpdTHKxQB5qKP1C"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "D9u1yADThke67Xk1cz5mYKSJYU7oX5eoRVQrBKMC8Jss",
+        "token1_decimals": 6,
+        "amount1": 163265306,
+        "token2": "FfUctsGNPUk1F9WTeDK47NaKwyieesyzadviRVg1m5ak",
+        "token2_decimals": 6,
+        "amount2": 1445721701,
+        "routers": [
+          {
+            "token1": "D9u1yADThke67Xk1cz5mYKSJYU7oX5eoRVQrBKMC8Jss",
+            "token1_decimals": 6,
+            "amount1": "163265306",
+            "token2": "FfUctsGNPUk1F9WTeDK47NaKwyieesyzadviRVg1m5ak",
+            "token2_decimals": 6,
+            "amount2": "1445721701",
+            "program_address": "CPMMoo8L3F4NbTegBCKVNunggL7H1ZpdTHKxQB5qKP1C",
+            "pool_address": "4xgaDZjY31FwqXrund3SfV88S1oVEnbU2gVDm9ZENGp5"
+          }
+        ]
+      },
+      "value": -1
+    },
+    {
+      "block_id": 312452384,
+      "trans_id": "u786F74smviCEoHwMnuH5dT6AWdEEAQe6h3iR118qdiLiuYEfmnhF8edNqoPE5xnkqqCF7oKr2t3B4hCw7yE1pV",
+      "block_time": 1736252493,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "4Arw1r3wY8tJnvyUVotAiRsHN4KgcuXFirBCgMXE6QL1",
+      "sources": [
+        "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "5kzKvW343LnnK3Z6WVzQKvJYWZZ55WHesZmcyYhaxXup",
+        "token1_decimals": 6,
+        "amount1": 24887895036,
+        "token2": "So11111111111111111111111111111111111111112",
+        "token2_decimals": 9,
+        "amount2": 6983613,
+        "routers": [
+          {
+            "token1": "5kzKvW343LnnK3Z6WVzQKvJYWZZ55WHesZmcyYhaxXup",
+            "token1_decimals": 6,
+            "amount1": "24887895036",
+            "token2": "So11111111111111111111111111111111111111112",
+            "token2_decimals": 9,
+            "amount2": "6983613",
+            "program_address": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+            "pool_address": "H1VAYAjCVfNWbCHctVWxiUdypagSrZzJBQ55aiDAqtWi"
+          }
+        ]
+      },
+      "value": 1.48981416129
+    },
+    {
+      "block_id": 312452384,
+      "trans_id": "wEuQ5X9MRbUwofjHiFQRZrgDA5MMmwaap9eR9fSV14up6CN6FBfGPjkuHd7bGu1XUsmQ4kkum2jtu38GsnpMmoz",
+      "block_time": 1736252493,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "4Arw1r3wY8tJnvyUVotAiRsHN4KgcuXFirBCgMXE6QL1",
+      "sources": [
+        "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "So11111111111111111111111111111111111111112",
+        "token1_decimals": 9,
+        "amount1": 7018663,
+        "token2": "5kzKvW343LnnK3Z6WVzQKvJYWZZ55WHesZmcyYhaxXup",
+        "token2_decimals": 6,
+        "amount2": 24887895036,
+        "routers": [
+          {
+            "token1": "So11111111111111111111111111111111111111112",
+            "token1_decimals": 9,
+            "amount1": "7018663",
+            "token2": "5kzKvW343LnnK3Z6WVzQKvJYWZZ55WHesZmcyYhaxXup",
+            "token2_decimals": 6,
+            "amount2": "24887895036",
+            "program_address": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+            "pool_address": "H1VAYAjCVfNWbCHctVWxiUdypagSrZzJBQ55aiDAqtWi"
+          }
+        ]
+      },
+      "value": 1.4972913777899999
+    },
+    {
+      "block_id": 312452384,
+      "trans_id": "34WGst2UaqwzW82zXzcdz1qv7FSe7wvAxB41EfiwMYd8wVkvT7qU4reernaMhCKW4zE9d5FRwtyrbKxzGetNFzpz",
+      "block_time": 1736252493,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "6WH2umAtRxxBvDxMeo9EE92EnMjQ3ucqg2VmkYrcL1gZ",
+      "sources": [
+        "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "So11111111111111111111111111111111111111112",
+        "token1_decimals": 9,
+        "amount1": 595373695,
+        "token2": "AuYKhrPU7HnG8fMKrCvh859QAEvRDUYAHy2B4GCL8oGq",
+        "token2_decimals": 6,
+        "amount2": 1742907937654,
+        "routers": [
+          {
+            "token1": "So11111111111111111111111111111111111111112",
+            "token1_decimals": 9,
+            "amount1": "595373695",
+            "token2": "AuYKhrPU7HnG8fMKrCvh859QAEvRDUYAHy2B4GCL8oGq",
+            "token2_decimals": 6,
+            "amount2": "1742907937654",
+            "program_address": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+            "pool_address": "5uBnc5uhD1hefSn5SrVgd67EmiGuQf8n4yucePaLVdGG"
+          }
+        ]
+      },
+      "value": 127.01107035435001
+    },
+    {
+      "block_id": 312452384,
+      "trans_id": "3GkQiMX14rCszN5kcqgwVAbspoMvoNSF6qhDT1LCt4wA419DSAiGEzSHZuiVkA5cjvmVdn3T37SEthTNBVYah4qC",
+      "block_time": 1736252493,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "5iCopJuJxQnSUvBFHvtVRgda8XpUPQwQrsRFpMDjbB7h",
+      "sources": [
+        "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "So11111111111111111111111111111111111111112",
+        "token1_decimals": 9,
+        "amount1": 1298524216,
+        "token2": "AuYKhrPU7HnG8fMKrCvh859QAEvRDUYAHy2B4GCL8oGq",
+        "token2_decimals": 6,
+        "amount2": 3825600815458,
+        "routers": [
+          {
+            "token1": "So11111111111111111111111111111111111111112",
+            "token1_decimals": 9,
+            "amount1": "1298524216",
+            "token2": "AuYKhrPU7HnG8fMKrCvh859QAEvRDUYAHy2B4GCL8oGq",
+            "token2_decimals": 6,
+            "amount2": "3825600815458",
+            "program_address": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+            "pool_address": "5uBnc5uhD1hefSn5SrVgd67EmiGuQf8n4yucePaLVdGG"
+          }
+        ]
+      },
+      "value": 277.01417099928
+    },
+    {
+      "block_id": 312452384,
+      "trans_id": "H16FfgXJczmjwQAxJtP7DfhL6CiNf56NZg8uKpSYZVoybHUCmULwrz8AEzwdqN1nHegFMCT8yxvBunQBKnNyvNb",
+      "block_time": 1736252493,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "JD1dHSqYkrXvqUVL8s6gzL1yB7kpYymsHfwsGxgwp55h",
+      "sources": [
+        "CPMMoo8L3F4NbTegBCKVNunggL7H1ZpdTHKxQB5qKP1C"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "JAmWYLiv3pGnNz63UTSKSEmJG4pdvvTLCZUcmpSLJA4Q",
+        "token1_decimals": 6,
+        "amount1": 813953488,
+        "token2": "3phQtrRDf7Jfwv93YJ239GCahKsz9KpBC7nxXTuSTJzd",
+        "token2_decimals": 6,
+        "amount2": 431185018,
+        "routers": [
+          {
+            "token1": "JAmWYLiv3pGnNz63UTSKSEmJG4pdvvTLCZUcmpSLJA4Q",
+            "token1_decimals": 6,
+            "amount1": "813953488",
+            "token2": "3phQtrRDf7Jfwv93YJ239GCahKsz9KpBC7nxXTuSTJzd",
+            "token2_decimals": 6,
+            "amount2": "431185018",
+            "program_address": "CPMMoo8L3F4NbTegBCKVNunggL7H1ZpdTHKxQB5qKP1C",
+            "pool_address": "7RSoVLFEjhwXmvmxvSntPCqvH7SpJViYTW4nLZ3Twt5F"
+          }
+        ]
+      },
+      "value": 10.41501925805971
+    },
+    {
+      "block_id": 312452384,
+      "trans_id": "oteNMi5p39NSq8xakrVFBRbX1aeD8CCwWrnVjYHjZ3uNHXfJFPjRqSiGAVvQKktGpPo3338qr13YSRBvnoUUyDC",
+      "block_time": 1736252493,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "HCA5PfZumwMAeAmNATqNejuAhzGXWKKa1Kma9Q4MfMfo",
+      "sources": [
+        "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "5kzKvW343LnnK3Z6WVzQKvJYWZZ55WHesZmcyYhaxXup",
+        "token1_decimals": 6,
+        "amount1": 6007298184411,
+        "token2": "So11111111111111111111111111111111111111112",
+        "token2_decimals": 9,
+        "amount2": 1696342225,
+        "routers": [
+          {
+            "token1": "5kzKvW343LnnK3Z6WVzQKvJYWZZ55WHesZmcyYhaxXup",
+            "token1_decimals": 6,
+            "amount1": "6007298184411",
+            "token2": "So11111111111111111111111111111111111111112",
+            "token2_decimals": 9,
+            "amount2": "1696342225",
+            "program_address": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+            "pool_address": "H1VAYAjCVfNWbCHctVWxiUdypagSrZzJBQ55aiDAqtWi"
+          }
+        ]
+      },
+      "value": 361.88068685925003
+    },
+    {
+      "block_id": 312452384,
+      "trans_id": "34E3Cr2Mwdj5LQdmsPsdfgS2u5NJGzs7qcPEP32G8eYN2To4Yy6by43Wj9SvxPPBMeH2FucGDFJFyjiDgohWwkyH",
+      "block_time": 1736252493,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "HCA5PfZumwMAeAmNATqNejuAhzGXWKKa1Kma9Q4MfMfo",
+      "sources": [
+        "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "So11111111111111111111111111111111111111112",
+        "token1_decimals": 9,
+        "amount1": 1704801906,
+        "token2": "5kzKvW343LnnK3Z6WVzQKvJYWZZ55WHesZmcyYhaxXup",
+        "token2_decimals": 6,
+        "amount2": 6007298184411,
+        "routers": [
+          {
+            "token1": "So11111111111111111111111111111111111111112",
+            "token1_decimals": 9,
+            "amount1": "1704801906",
+            "token2": "5kzKvW343LnnK3Z6WVzQKvJYWZZ55WHesZmcyYhaxXup",
+            "token2_decimals": 6,
+            "amount2": "6007298184411",
+            "program_address": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+            "pool_address": "H1VAYAjCVfNWbCHctVWxiUdypagSrZzJBQ55aiDAqtWi"
+          }
+        ]
+      },
+      "value": 363.68539060698
+    },
+    {
+      "block_id": 312452384,
+      "trans_id": "3QGs1FSTebrGD8bxy6gG1Xo3bC7aRtWcBVtuqLmYiHqvF4NX1qQ6K1Fpomt7BnmkTMeCmFj9wjVh7oRAbPxd49dj",
+      "block_time": 1736252493,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "26rogKZkjAjtHTZnZPibpvakyCRp8FMuGu8uKXaJEdpq",
+      "sources": [
+        "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "77iXTyRBojXDbw8kTWRJzZSjTk97f4Pyr9EHBQwGsDVe",
+        "token1_decimals": 6,
+        "amount1": 3622277563875,
+        "token2": "So11111111111111111111111111111111111111112",
+        "token2_decimals": 9,
+        "amount2": 1123956302,
+        "routers": [
+          {
+            "token1": "77iXTyRBojXDbw8kTWRJzZSjTk97f4Pyr9EHBQwGsDVe",
+            "token1_decimals": 6,
+            "amount1": "3622277563875",
+            "token2": "So11111111111111111111111111111111111111112",
+            "token2_decimals": 9,
+            "amount2": "1123956302",
+            "program_address": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+            "pool_address": "2qvayYLbtRZxXuXSeJbfcjfhhviL61LKwjLLhji6assw"
+          }
+        ]
+      },
+      "value": 239.77359790566004
+    },
+    {
+      "block_id": 312452384,
+      "trans_id": "4RNRcGGuDFvkAfaoBGCpXTg2xbZFsbkJhbpZE2ED6wmsYJoWSt3anS5anZnzrw7UqJ2QKeU3wQGRkvKdtaMdEfcs",
+      "block_time": 1736252493,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "26rogKZkjAjtHTZnZPibpvakyCRp8FMuGu8uKXaJEdpq",
+      "sources": [
+        "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "So11111111111111111111111111111111111111112",
+        "token1_decimals": 9,
+        "amount1": 1129574762,
+        "token2": "77iXTyRBojXDbw8kTWRJzZSjTk97f4Pyr9EHBQwGsDVe",
+        "token2_decimals": 6,
+        "amount2": 3622277563875,
+        "routers": [
+          {
+            "token1": "So11111111111111111111111111111111111111112",
+            "token1_decimals": 9,
+            "amount1": "1129574762",
+            "token2": "77iXTyRBojXDbw8kTWRJzZSjTk97f4Pyr9EHBQwGsDVe",
+            "token2_decimals": 6,
+            "amount2": "3622277563875",
+            "program_address": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+            "pool_address": "2qvayYLbtRZxXuXSeJbfcjfhhviL61LKwjLLhji6assw"
+          }
+        ]
+      },
+      "value": 240.97218397746002
+    },
+    {
+      "block_id": 312452384,
+      "trans_id": "4rpPh9NYRxMBWq3VeNuSRuuKkSkAz8XNqmPivnmocsoG3BAuYmm828vRgKdEqRbkyjZDCiKMdA7uRXdXztKR86UY",
+      "block_time": 1736252493,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "EByTfm7qLtGEqx4fRRt1TppZGJuxEYVNNY8oABVx1f66",
+      "sources": [
+        "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "77iXTyRBojXDbw8kTWRJzZSjTk97f4Pyr9EHBQwGsDVe",
+        "token1_decimals": 6,
+        "amount1": 3334511796763,
+        "token2": "So11111111111111111111111111111111111111112",
+        "token2_decimals": 9,
+        "amount2": 1034317138,
+        "routers": [
+          {
+            "token1": "77iXTyRBojXDbw8kTWRJzZSjTk97f4Pyr9EHBQwGsDVe",
+            "token1_decimals": 6,
+            "amount1": "3334511796763",
+            "token2": "So11111111111111111111111111111111111111112",
+            "token2_decimals": 9,
+            "amount2": "1034317138",
+            "program_address": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+            "pool_address": "2qvayYLbtRZxXuXSeJbfcjfhhviL61LKwjLLhji6assw"
+          }
+        ]
+      },
+      "value": 220.65087504954002
+    },
+    {
+      "block_id": 312452384,
+      "trans_id": "59KC2rMAgRPrqQkLNMc2A6AQ3H7dShpZpcvyoApi9s7XVxDVvB2XyqCmi8n8dRGo82SHTewjbDVpaXRDjy2GJexf",
+      "block_time": 1736252493,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "EByTfm7qLtGEqx4fRRt1TppZGJuxEYVNNY8oABVx1f66",
+      "sources": [
+        "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "So11111111111111111111111111111111111111112",
+        "token1_decimals": 9,
+        "amount1": 1039489150,
+        "token2": "77iXTyRBojXDbw8kTWRJzZSjTk97f4Pyr9EHBQwGsDVe",
+        "token2_decimals": 6,
+        "amount2": 3334511796763,
+        "routers": [
+          {
+            "token1": "So11111111111111111111111111111111111111112",
+            "token1_decimals": 9,
+            "amount1": "1039489150",
+            "token2": "77iXTyRBojXDbw8kTWRJzZSjTk97f4Pyr9EHBQwGsDVe",
+            "token2_decimals": 6,
+            "amount2": "3334511796763",
+            "program_address": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+            "pool_address": "2qvayYLbtRZxXuXSeJbfcjfhhviL61LKwjLLhji6assw"
+          }
+        ]
+      },
+      "value": 221.75422036950002
+    },
+    {
+      "block_id": 312452384,
+      "trans_id": "4khCwKSfJm6eZ979xY34Ki3mKbye8N6GRysvpX7DkfrVCFsXc7XrkuoNyCHyo7GHGQSiNEMFLc6xLeVDSsrh3vKQ",
+      "block_time": 1736252493,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "AhRywJxQmwDXgCdQWLo5AB5Y7y6gaahi4ax7AcskmSJ8",
+      "sources": [
+        "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "5kzKvW343LnnK3Z6WVzQKvJYWZZ55WHesZmcyYhaxXup",
+        "token1_decimals": 6,
+        "amount1": 5348271508644,
+        "token2": "So11111111111111111111111111111111111111112",
+        "token2_decimals": 9,
+        "amount2": 1509145255,
+        "routers": [
+          {
+            "token1": "5kzKvW343LnnK3Z6WVzQKvJYWZZ55WHesZmcyYhaxXup",
+            "token1_decimals": 6,
+            "amount1": "5348271508644",
+            "token2": "So11111111111111111111111111111111111111112",
+            "token2_decimals": 9,
+            "amount2": "1509145255",
+            "program_address": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+            "pool_address": "H1VAYAjCVfNWbCHctVWxiUdypagSrZzJBQ55aiDAqtWi"
+          }
+        ]
+      },
+      "value": 321.94595724915
+    },
+    {
+      "block_id": 312452384,
+      "trans_id": "3XZuV1QkttkX1wicP5eutPCthAqLVvzgLhUCrE3VzwkvEr385PDEewA58JEBuQ7qsoroDV8LpFMvYbBihtocv5RA",
+      "block_time": 1736252493,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "AhRywJxQmwDXgCdQWLo5AB5Y7y6gaahi4ax7AcskmSJ8",
+      "sources": [
+        "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "So11111111111111111111111111111111111111112",
+        "token1_decimals": 9,
+        "amount1": 1516676647,
+        "token2": "5kzKvW343LnnK3Z6WVzQKvJYWZZ55WHesZmcyYhaxXup",
+        "token2_decimals": 6,
+        "amount2": 5348271508644,
+        "routers": [
+          {
+            "token1": "So11111111111111111111111111111111111111112",
+            "token1_decimals": 9,
+            "amount1": "1516676647",
+            "token2": "5kzKvW343LnnK3Z6WVzQKvJYWZZ55WHesZmcyYhaxXup",
+            "token2_decimals": 6,
+            "amount2": "5348271508644",
+            "program_address": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+            "pool_address": "H1VAYAjCVfNWbCHctVWxiUdypagSrZzJBQ55aiDAqtWi"
+          }
+        ]
+      },
+      "value": 323.55262910451
+    },
+    {
+      "block_id": 312452384,
+      "trans_id": "bzQBGHvEq9Kk2LVN1bnNF3xsJELw8trcxBfsb3s9KFGgc8gdzTvhJhCwiW6tgNABg5MpTisioKCxp5okSxtZBnd",
+      "block_time": 1736252493,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "9inmKn7KywpkugeXSqdv2y84bgjx6jefxkiBCE6F4id8",
+      "sources": [
+        "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "AuYKhrPU7HnG8fMKrCvh859QAEvRDUYAHy2B4GCL8oGq",
+        "token1_decimals": 6,
+        "amount1": 4828954833000,
+        "token2": "So11111111111111111111111111111111111111112",
+        "token2_decimals": 9,
+        "amount2": 1632779526,
+        "routers": [
+          {
+            "token1": "AuYKhrPU7HnG8fMKrCvh859QAEvRDUYAHy2B4GCL8oGq",
+            "token1_decimals": 6,
+            "amount1": "4828954833000",
+            "token2": "So11111111111111111111111111111111111111112",
+            "token2_decimals": 9,
+            "amount2": "1632779526",
+            "program_address": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+            "pool_address": "5uBnc5uhD1hefSn5SrVgd67EmiGuQf8n4yucePaLVdGG"
+          }
+        ]
+      },
+      "value": 348.32085628158
+    },
+    {
+      "block_id": 312452384,
+      "trans_id": "3ppGX69rJYKoSdiJkLJbGpNS18E3M5JAAXm9L7XeLdm64RM2AfbAehCSCFAqhNhtW5zbisypavUULUJnPamZbefp",
+      "block_time": 1736252493,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "9inmKn7KywpkugeXSqdv2y84bgjx6jefxkiBCE6F4id8",
+      "sources": [
+        "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "So11111111111111111111111111111111111111112",
+        "token1_decimals": 9,
+        "amount1": 1640929010,
+        "token2": "AuYKhrPU7HnG8fMKrCvh859QAEvRDUYAHy2B4GCL8oGq",
+        "token2_decimals": 6,
+        "amount2": 4828954833000,
+        "routers": [
+          {
+            "token1": "So11111111111111111111111111111111111111112",
+            "token1_decimals": 9,
+            "amount1": "1640929010",
+            "token2": "AuYKhrPU7HnG8fMKrCvh859QAEvRDUYAHy2B4GCL8oGq",
+            "token2_decimals": 6,
+            "amount2": "4828954833000",
+            "program_address": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+            "pool_address": "5uBnc5uhD1hefSn5SrVgd67EmiGuQf8n4yucePaLVdGG"
+          }
+        ]
+      },
+      "value": 350.05938570330005
+    },
+    {
+      "block_id": 312452384,
+      "trans_id": "DRaDSt2tAp2Li2iEmWXL6NJkfUtM878m6LCw3BxzGELqcxyS39bpDgRu2ZCBvAjdX8Kmy2GQJe5Y639WUvGktHv",
+      "block_time": 1736252493,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "Fpbo3kPgFq9YBEXo6TYpTE1tekb7U6ZBjymsS1TMyAAJ",
+      "sources": [
+        "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "77iXTyRBojXDbw8kTWRJzZSjTk97f4Pyr9EHBQwGsDVe",
+        "token1_decimals": 6,
+        "amount1": 3609896594886,
+        "token2": "So11111111111111111111111111111111111111112",
+        "token2_decimals": 9,
+        "amount2": 1120056554,
+        "routers": [
+          {
+            "token1": "77iXTyRBojXDbw8kTWRJzZSjTk97f4Pyr9EHBQwGsDVe",
+            "token1_decimals": 6,
+            "amount1": "3609896594886",
+            "token2": "So11111111111111111111111111111111111111112",
+            "token2_decimals": 9,
+            "amount2": "1120056554",
+            "program_address": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+            "pool_address": "2qvayYLbtRZxXuXSeJbfcjfhhviL61LKwjLLhji6assw"
+          }
+        ]
+      },
+      "value": 238.94166466482002
+    },
+    {
+      "block_id": 312452384,
+      "trans_id": "253qfososFK8PcgTG5L9nQ8p1s4wzhxzpc7A4dm4nspJZb2kpZU9XFFPnG3mg3R5xfLbv8uKZEhNWv6AS6s2FsWr",
+      "block_time": 1736252493,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "Fpbo3kPgFq9YBEXo6TYpTE1tekb7U6ZBjymsS1TMyAAJ",
+      "sources": [
+        "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "So11111111111111111111111111111111111111112",
+        "token1_decimals": 9,
+        "amount1": 1125655597,
+        "token2": "77iXTyRBojXDbw8kTWRJzZSjTk97f4Pyr9EHBQwGsDVe",
+        "token2_decimals": 6,
+        "amount2": 3609896594886,
+        "routers": [
+          {
+            "token1": "So11111111111111111111111111111111111111112",
+            "token1_decimals": 9,
+            "amount1": "1125655597",
+            "token2": "77iXTyRBojXDbw8kTWRJzZSjTk97f4Pyr9EHBQwGsDVe",
+            "token2_decimals": 6,
+            "amount2": "3609896594886",
+            "program_address": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+            "pool_address": "2qvayYLbtRZxXuXSeJbfcjfhhviL61LKwjLLhji6assw"
+          }
+        ]
+      },
+      "value": 240.13610850801
+    },
+    {
+      "block_id": 312452384,
+      "trans_id": "jnvs8rCijLSbE6TwTJGFJU5HRYx6y7pZWhcvskCkXwFXp81vwwHDB9CJrzEvU7TWYyYu5VQCcLTeaMPixsFyLFP",
+      "block_time": 1736252493,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "JD25qVdtd65FoiXNmR89JjmoJdYk9sjYQeSTZAALFiMy",
+      "sources": [
+        "CPMMoo8L3F4NbTegBCKVNunggL7H1ZpdTHKxQB5qKP1C"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "5GnhkL4mhpYr4PMF5PEuq89eypwDCvJtgAi4CUv73C8Z",
+        "token1_decimals": 8,
+        "amount1": 27500000000,
+        "token2": "13TpziFPpYZ4RzYaMzkPv26P5H3r9T5FYNyQmsukeorF",
+        "token2_decimals": 8,
+        "amount2": 1384431498646,
+        "routers": [
+          {
+            "token1": "5GnhkL4mhpYr4PMF5PEuq89eypwDCvJtgAi4CUv73C8Z",
+            "token1_decimals": 8,
+            "amount1": "27500000000",
+            "token2": "13TpziFPpYZ4RzYaMzkPv26P5H3r9T5FYNyQmsukeorF",
+            "token2_decimals": 8,
+            "amount2": "1384431498646",
+            "program_address": "CPMMoo8L3F4NbTegBCKVNunggL7H1ZpdTHKxQB5qKP1C",
+            "pool_address": "ANFUSmmuiu356EAKJ1SQ49vmpEMu5aaB2g5uf9yVRJei"
+          }
+        ]
+      },
+      "value": -1
+    },
+    {
+      "block_id": 312452384,
+      "trans_id": "5emJe2hKuePErzvrnjJ5j9mkQY8oPouhptzL4KeRzcXcWerrGRVYUEkjhKKxrsM5wAx4tNMNQtXWwHfWsySsZyG7",
+      "block_time": 1736252493,
+      "activity_type": "ACTIVITY_AGG_TOKEN_SWAP",
+      "from_address": "Ai7GqaMdoWimrsTZUyJe9yBjASMtoNktf4kpDYkkkCjD",
+      "sources": [
+        "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8"
+      ],
+      "platform": [
+        "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4"
+      ],
+      "amount_info": {
+        "token1": "So11111111111111111111111111111111111111112",
+        "token1_decimals": 9,
+        "amount1": 10606,
+        "token2": "5kzKvW343LnnK3Z6WVzQKvJYWZZ55WHesZmcyYhaxXup",
+        "token2_decimals": 6,
+        "amount2": 37609963,
+        "routers": [
+          {
+            "token1": "So11111111111111111111111111111111111111112",
+            "token1_decimals": 9,
+            "amount1": "10606",
+            "token2": "5kzKvW343LnnK3Z6WVzQKvJYWZZ55WHesZmcyYhaxXup",
+            "token2_decimals": 6,
+            "amount2": "37609963",
+            "program_address": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+            "pool_address": "H1VAYAjCVfNWbCHctVWxiUdypagSrZzJBQ55aiDAqtWi"
+          }
+        ]
+      },
+      "value": 0.00226257798
+    }
+  ],
+  "metadata": {
+    "tokens": {
+      "So11111111111111111111111111111111111111112": {
+        "token_address": "So11111111111111111111111111111111111111112",
+        "token_name": "Wrapped SOL",
+        "token_symbol": "SOL",
+        "token_icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png",
+        "token_decimals": 9,
+        "token_type": "token",
+        "price_usdt": 213.33,
+        "reputation": "ok",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true
+      },
+      "BgoicVzEJAJt65CRFeVN6SthFxbZuvg7UnWAW8Kypump": {
+        "token_address": "BgoicVzEJAJt65CRFeVN6SthFxbZuvg7UnWAW8Kypump",
+        "token_name": "ArkSciDAO",
+        "token_symbol": "ASD",
+        "token_icon": "https://ipfs.io/ipfs/QmSEpsYsJttd2S9xjnkN8YBWkUNHtxrVwGd524iodk93Wc",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 0.0009971063070050423,
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "token_label": {
+          "token_address": "BgoicVzEJAJt65CRFeVN6SthFxbZuvg7UnWAW8Kypump",
+          "token_name": "",
+          "token_symbol": "",
+          "token_icon": ""
+        }
+      },
+      "GRNG6Fe5XamTgMMw29GBaGpQJYuf9JPz3sJ1JHfuEFPu": {
+        "token_address": "GRNG6Fe5XamTgMMw29GBaGpQJYuf9JPz3sJ1JHfuEFPu",
+        "token_name": "Sonic SVM",
+        "token_symbol": "$Sonic",
+        "token_icon": "https://gateway.pinata.cloud/ipfs/QmbuLFZ6hkW1HLVLa2QZpXtFC31WZFBX2VbgMU2bDUk3rr",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 0.0036521076977397964,
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true
+      },
+      "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v": {
+        "token_address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+        "token_name": "USD Coin",
+        "token_symbol": "USDC",
+        "token_icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 0.999361,
+        "reputation": "ok",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true
+      },
+      "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB": {
+        "token_address": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+        "token_name": "USDT",
+        "token_symbol": "USDT",
+        "token_icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB/logo.svg",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 0.999226,
+        "reputation": "ok",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "token_label": {
+          "token_address": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+          "token_name": "USDT",
+          "token_symbol": "USDT",
+          "token_icon": ""
+        }
+      },
+      "9KfQFESKH6YBQ3MkPwYFY42iZ8xusBEJvPtBzcunR4q2": {
+        "token_address": "9KfQFESKH6YBQ3MkPwYFY42iZ8xusBEJvPtBzcunR4q2",
+        "token_name": "Sonic SVM",
+        "token_symbol": "$Sonic",
+        "token_icon": "https://gateway.pinata.cloud/ipfs/Qmf1EdaoKPfuj5AfQ44a3jX1A7TyT2ipx3UpniTwr41aey",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 0.6258682340841836,
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true
+      },
+      "3aHGHRDSn2QLoSF9uygcChBhzPknrcGV4rHNWKToUvYa": {
+        "token_address": "3aHGHRDSn2QLoSF9uygcChBhzPknrcGV4rHNWKToUvYa",
+        "token_name": "Sonic SVM",
+        "token_symbol": "SONIC",
+        "token_icon": "https://gateway.pinata.cloud/ipfs/QmbuLFZ6hkW1HLVLa2QZpXtFC31WZFBX2VbgMU2bDUk3rr",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 0.011391792311652358,
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true
+      },
+      "895hqS4UdST5hanxxeD6tMt3v6BbRd6yaBogULzJpump": {
+        "token_address": "895hqS4UdST5hanxxeD6tMt3v6BbRd6yaBogULzJpump",
+        "token_name": "KING PEPE",
+        "token_symbol": "KIPEPE",
+        "token_icon": "https://ipfs.io/ipfs/QmP5W5UfVGrqkJTz5N4tPn6HCjYYSMQbgZ8KzYxZPpGpFs",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 0.000001542590874792596,
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true
+      },
+      "HMAikgk8bF994rP3bFPXNY1AePLAJNHu1do8RvtxqU63": {
+        "token_address": "HMAikgk8bF994rP3bFPXNY1AePLAJNHu1do8RvtxqU63",
+        "token_name": "BIO Protocol",
+        "token_symbol": "BIO",
+        "token_icon": "https://gateway.pinata.cloud/ipfs/QmbGT9i6aMpUdZ24xNw9VNmgRejEyEuB7YG7FRhA5ngLze",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 0.00958003487336707,
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true
+      },
+      "GWX1SRULf943PcPexGzrm4v1X3FQRyiq6vRjMmPRADTj": {
+        "token_address": "GWX1SRULf943PcPexGzrm4v1X3FQRyiq6vRjMmPRADTj",
+        "token_decimals": 2,
+        "token_type": "nft",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true
+      },
+      "undefined": {
+        "token_address": "undefined",
+        "token_icon": "",
+        "token_decimals": 1,
+        "token_type": "token",
+        "price_usdt": null,
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true
+      },
+      "5MdeaBGvCHmbkAsEwgC3LoGuiwtrUGbN32Cde1SyMDgD": {
+        "token_address": "5MdeaBGvCHmbkAsEwgC3LoGuiwtrUGbN32Cde1SyMDgD",
+        "token_name": "Elastic Finance Token",
+        "token_symbol": "EEFI",
+        "token_icon": "https://ipfs.io/ipfs/QmdtbJ7GEw9saEsJ7YBv7VtvjPAJKojhCK1PbanJf8ouyy",
+        "token_decimals": 9,
+        "token_type": "token",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true
+      },
+      "2N6sSGkxDnZjxRTRoFdKPtRD2y8wuwNvZgBoUsrtZon4": {
+        "token_address": "2N6sSGkxDnZjxRTRoFdKPtRD2y8wuwNvZgBoUsrtZon4",
+        "token_name": "Apple ai",
+        "token_symbol": "AppleAI",
+        "token_icon": "https://gateway.pinata.cloud/ipfs/QmNjTg36SUjUL5PK732U7qEcq1CDBkjYkHmCgiHWgHebMG",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 0.0002623770436610212,
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true
+      },
+      "aicVGRafAgFcSsGwPzDhpWqoa9MsavR7fC1ppzCxmAn": {
+        "token_address": "aicVGRafAgFcSsGwPzDhpWqoa9MsavR7fC1ppzCxmAn",
+        "token_name": "Nebula AI",
+        "token_symbol": "NEBULA",
+        "token_icon": "https://ipfs.io/ipfs/bafkreielbplqznjrnbsza7xwwpm7paqdorwb75kywebte56okqo7jvk4ii",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 6.857760262359906e-8,
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true
+      },
+      "4WL3feuUCD6Xihv1HsaP1u3RP5qDQR6CSQxqzVkFpump": {
+        "token_address": "4WL3feuUCD6Xihv1HsaP1u3RP5qDQR6CSQxqzVkFpump",
+        "token_name": "Elon Trump Fart",
+        "token_symbol": "ETF500",
+        "token_icon": "https://ipfs.io/ipfs/QmeKEWqZuuFEnArCrX47pxstjmGC8pP3sD9tqRs9KC2rJk",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 0.000018203844995879537,
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "token_label": {
+          "token_address": "4WL3feuUCD6Xihv1HsaP1u3RP5qDQR6CSQxqzVkFpump",
+          "token_name": "",
+          "token_symbol": "",
+          "token_icon": ""
+        }
+      },
+      "9C2DUdsuKyqd4NZx6CfCUWS3ScuJgcbvSUZo2u6E8sYu": {
+        "token_address": "9C2DUdsuKyqd4NZx6CfCUWS3ScuJgcbvSUZo2u6E8sYu",
+        "token_name": "APEGPT",
+        "token_symbol": "APEGPT",
+        "token_icon": "https://i.degencdn.com/ipfs/bafkreienimwroofz3xg3wbabuf4dtcstufknnhzotaf4brqq4wre3umu2i",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 0.00020790121506527513,
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true
+      },
+      "8q8YMVJDB8dm1EEBhDzhQvHk69KsNkGSzxs41hTByTbK": {
+        "token_address": "8q8YMVJDB8dm1EEBhDzhQvHk69KsNkGSzxs41hTByTbK",
+        "token_name": "MAX",
+        "token_symbol": "$MAX",
+        "token_icon": "https://gateway.pinata.cloud/ipfs/QmTnYjhPd6d9pi9fBKZgVYT4UeudFh1sRVgRLjGjGbKtiN",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 0.06007021112441077,
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true
+      },
+      "Es7WfpbnJoaydo3DnLSk2qrvipAHUJho7BfE3d5q3VpN": {
+        "token_address": "Es7WfpbnJoaydo3DnLSk2qrvipAHUJho7BfE3d5q3VpN",
+        "token_name": "aixbt",
+        "token_symbol": "aixbt",
+        "token_icon": "https://gateway.pinata.cloud/ipfs/QmVE8yFnFwBq2b1BxKxHjWgYMNbZaxhmgYWCJVe1H1TVNv",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 0.009626011176679593,
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true
+      },
+      "61V8vBaqAGMpgDQi4JcAwo1dmBGHsyhzodcPqnEVpump": {
+        "token_address": "61V8vBaqAGMpgDQi4JcAwo1dmBGHsyhzodcPqnEVpump",
+        "token_name": "AI Rig Complex",
+        "token_symbol": "arc",
+        "token_icon": "https://ipfs.io/ipfs/QmPDJuEobBcLZihjFCvkWA8c1FiW7UzM2ctFdiffSLxf1d",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 0.378922,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "token_label": {
+          "token_address": "61V8vBaqAGMpgDQi4JcAwo1dmBGHsyhzodcPqnEVpump",
+          "token_name": "",
+          "token_symbol": "",
+          "token_icon": ""
+        }
+      },
+      "HuL1WSoBYPRaYbWQ4u6VJAdjznCjecdc3Z5yVqVepump": {
+        "token_address": "HuL1WSoBYPRaYbWQ4u6VJAdjznCjecdc3Z5yVqVepump",
+        "token_name": "RedQueenAI",
+        "token_symbol": "RedQueenAI",
+        "token_icon": "https://ipfs.io/ipfs/QmNz2VQ1FfzeqUfEiW1qA985hCaeuNPfmHPq8wYQHN5qhp",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 0.0006009032745165178,
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "token_label": {
+          "token_address": "HuL1WSoBYPRaYbWQ4u6VJAdjznCjecdc3Z5yVqVepump",
+          "token_name": "",
+          "token_symbol": "",
+          "token_icon": ""
+        }
+      },
+      "48LFosAWDKQ9tNJx97LRkzzQ5HbmwQtU1bUobyr1JRCH": {
+        "token_address": "48LFosAWDKQ9tNJx97LRkzzQ5HbmwQtU1bUobyr1JRCH",
+        "token_name": "Daddy Shark Meme",
+        "token_symbol": "DADDYSHARK",
+        "token_icon": "https://gateway.irys.xyz/grYbf6Kx64UmDmiKqUcFEKNJLfSBeYF5mDs4GIM-Bio",
+        "token_decimals": 9,
+        "token_type": "token",
+        "price_usdt": 0.00006488508764606547,
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true
+      },
+      "DWEmswm2X2L3wbTmEfoyt5LqTtvFRha6HnNUfWfThuS6": {
+        "token_address": "DWEmswm2X2L3wbTmEfoyt5LqTtvFRha6HnNUfWfThuS6",
+        "token_name": "SPL Token",
+        "token_symbol": "SPL Token",
+        "token_icon": null,
+        "token_decimals": 6,
+        "token_type": "token",
+        "reputation": "scam",
+        "is_show_value": false,
+        "is_calculate_on_portfolio": false
+      },
+      "GEQxsGyc1HYbdVDzdk7qrX4zZ6334AHjswj1R3wgoxQE": {
+        "token_address": "GEQxsGyc1HYbdVDzdk7qrX4zZ6334AHjswj1R3wgoxQE",
+        "token_name": "Rebe1 Bots Ep1c War",
+        "token_symbol": "RBAX",
+        "token_icon": "https://i.degencdn.com/ipfs/bafkreigp3663ncfyad7eo2myd7g62bk73p2j2b2b7wj3je3beswyrrcn44",
+        "token_decimals": 6,
+        "token_type": "token",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true
+      },
+      "4tdgnZESdqWYxx3cKt9Z8zyB8wLJnfzWfurFum2Enj53": {
+        "token_address": "4tdgnZESdqWYxx3cKt9Z8zyB8wLJnfzWfurFum2Enj53",
+        "token_name": "Linea",
+        "token_symbol": "L1nea",
+        "token_icon": "https://i.degencdn.com/ipfs/bafkreibgel36eu3lnzfxabmcptwyle2wcopwpbb6mgdlzkyzbzlmgyw5qe",
+        "token_decimals": 6,
+        "token_type": "token",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true
+      },
+      "4QQ9cB5gyrEMia8Kd38Ygm6CUBmqqRAvCAQcEZ7RK1bC": {
+        "token_address": "4QQ9cB5gyrEMia8Kd38Ygm6CUBmqqRAvCAQcEZ7RK1bC",
+        "token_name": "USDC",
+        "token_symbol": "USDC",
+        "token_icon": "https://i.degencdn.com/ipfs/bafkreigm5o72t6kdbz7o7iwwaynejyd255dylnmb3rw3olv23ygskirsfa",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 0.9999059205407561,
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true
+      },
+      "2EH5jTzLGuiKVp1V3HyfUw2XHYXQnEvrqX1VdeT9ApUi": {
+        "token_address": "2EH5jTzLGuiKVp1V3HyfUw2XHYXQnEvrqX1VdeT9ApUi",
+        "token_decimals": 6,
+        "token_type": "nft",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "token_label": {
+          "token_address": "2EH5jTzLGuiKVp1V3HyfUw2XHYXQnEvrqX1VdeT9ApUi",
+          "token_name": "Meteora (TARIFF) LP Token",
+          "token_symbol": "Meteora (TARIFF) LP Token",
+          "token_icon": "https://statics.solscan.io/ex-img/LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo.svg"
+        }
+      },
+      "A76gjxw27JJ97pPqeR6R54tw844N9VFieLmFGmRdynRt": {
+        "token_address": "A76gjxw27JJ97pPqeR6R54tw844N9VFieLmFGmRdynRt",
+        "token_name": "TARIFF",
+        "token_symbol": "TARIFF",
+        "token_icon": "https://gateway.irys.xyz/92bScdQ1X1gTwSwSjCRzaMaDvj2d1A2yFjBpLakA34qp",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 0.00038861385206781854,
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true
+      },
+      "FZN7QZ8ZUUAxMPfxYEYkH3cXUASzH8EqA6B4tyCL8f1j": {
+        "token_address": "FZN7QZ8ZUUAxMPfxYEYkH3cXUASzH8EqA6B4tyCL8f1j",
+        "token_name": "",
+        "token_symbol": "",
+        "token_decimals": 9,
+        "token_type": "token",
+        "price_usdt": 84.21495327851379,
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "token_label": {
+          "token_address": "FZN7QZ8ZUUAxMPfxYEYkH3cXUASzH8EqA6B4tyCL8f1j",
+          "token_name": "Meteora (SOL) LP Token",
+          "token_symbol": "Meteora (SOL) LP Token",
+          "token_icon": "https://statics.solscan.io/ex-img/LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo.svg"
+        }
+      },
+      "9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump": {
+        "token_address": "9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump",
+        "token_name": "Fartcoin ",
+        "token_symbol": "Fartcoin ",
+        "token_icon": "https://ipfs.io/ipfs/QmQr3Fz4h1etNsF7oLGMRHiCzhB5y9a7GjyodnF7zLHK1g",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 1.22,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "token_label": {
+          "token_address": "9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump",
+          "token_name": "",
+          "token_symbol": "",
+          "token_icon": ""
+        }
+      },
+      "AtpUocL94CzYR1tZouFpo76QeGsUMH7kSqicaTNy7Lvz": {
+        "token_address": "AtpUocL94CzYR1tZouFpo76QeGsUMH7kSqicaTNy7Lvz",
+        "token_name": "",
+        "token_symbol": "",
+        "token_decimals": 9,
+        "token_type": "token",
+        "reputation": "not_classify",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "token_label": {
+          "token_address": "AtpUocL94CzYR1tZouFpo76QeGsUMH7kSqicaTNy7Lvz",
+          "token_name": "Lifinity (SOL-USDC) LP Token",
+          "token_symbol": "Lifinity (SOL-USDC) LP Token",
+          "token_icon": "https://statics.solscan.io/ex-img/EewxydAPCCVuNEyrVN68PuSYdQ7wKn27V9Gjeoi8dy3S.svg"
+        }
+      },
+      "J1toso1uCk3RLmjorhTtrVwY9HJ7X8V9yYac6Y7kGCPn": {
+        "token_address": "J1toso1uCk3RLmjorhTtrVwY9HJ7X8V9yYac6Y7kGCPn",
+        "token_name": "Jito Staked SOL",
+        "token_symbol": "JitoSOL",
+        "token_icon": "https://storage.googleapis.com/token-metadata/JitoSOL-256.png",
+        "token_decimals": 9,
+        "token_type": "token",
+        "price_usdt": 249.49,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "token_label": {
+          "token_address": "J1toso1uCk3RLmjorhTtrVwY9HJ7X8V9yYac6Y7kGCPn",
+          "token_name": "",
+          "token_symbol": "",
+          "token_icon": ""
+        }
+      },
+      "2e6NAJy1qaKMq8PaswP2uzimMDvbr71Tbw38G6q9SNZ2": {
+        "token_address": "2e6NAJy1qaKMq8PaswP2uzimMDvbr71Tbw38G6q9SNZ2",
+        "token_name": "",
+        "token_symbol": "",
+        "token_decimals": 9,
+        "token_type": "token",
+        "reputation": "not_classify",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "token_label": {
+          "token_address": "2e6NAJy1qaKMq8PaswP2uzimMDvbr71Tbw38G6q9SNZ2",
+          "token_name": "Lifinity (SOL-USDT) LP Token",
+          "token_symbol": "Lifinity (SOL-USDT) LP Token",
+          "token_icon": "https://statics.solscan.io/ex-img/EewxydAPCCVuNEyrVN68PuSYdQ7wKn27V9Gjeoi8dy3S.svg"
+        }
+      },
+      "T8KdT8hDzNhbGx5sjpEUxepnbDB1TZoCa7vtC5JjsMw": {
+        "token_address": "T8KdT8hDzNhbGx5sjpEUxepnbDB1TZoCa7vtC5JjsMw",
+        "token_name": "Saber Wrapped USDT (8 decimals)",
+        "token_symbol": "sUSDT-8",
+        "token_icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/T8KdT8hDzNhbGx5sjpEUxepnbDB1TZoCa7vtC5JjsMw/icon.png",
+        "token_decimals": 8,
+        "token_type": "token",
+        "price_usdt": 1.0002420931853955,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true
+      },
+      "2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv": {
+        "token_address": "2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv",
+        "token_name": "Pudgy Penguins",
+        "token_symbol": "PENGU",
+        "token_icon": "https://arweave.net/BW67hICaKGd2_wamSB0IQq-x7Xwtmr2oJj1WnWGJRHU",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 0.04151234,
+        "reputation": "ok",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true
+      },
+      "EM6fcF2xhn9mmy9mHhrRpvPm16tF5k5r5Lxmdc9z1qKs": {
+        "token_address": "EM6fcF2xhn9mmy9mHhrRpvPm16tF5k5r5Lxmdc9z1qKs",
+        "token_decimals": 6,
+        "token_type": "nft",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "token_label": {
+          "token_address": "EM6fcF2xhn9mmy9mHhrRpvPm16tF5k5r5Lxmdc9z1qKs",
+          "token_name": "Meteora (KIRAI) LP Token",
+          "token_symbol": "Meteora (KIRAI) LP Token",
+          "token_icon": "https://statics.solscan.io/ex-img/LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo.svg"
+        }
+      },
+      "HBV58vtGSRWDppXpaER3KCRU2SyH5Z9YPTF92PTwKvzq": {
+        "token_address": "HBV58vtGSRWDppXpaER3KCRU2SyH5Z9YPTF92PTwKvzq",
+        "token_name": "Just Kira",
+        "token_symbol": "KIRAI",
+        "token_icon": "https://gateway.irys.xyz/4mzsoST5oW9YqeUxqQgFhVHCKCntQGsC56KS7ijVS2tC",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 0.011598002126702783,
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true
+      },
+      "E2QDBwHZxDGo73ohLA1tqtJ6DvcEpmBr12RRVuHg2DPE": {
+        "token_address": "E2QDBwHZxDGo73ohLA1tqtJ6DvcEpmBr12RRVuHg2DPE",
+        "token_name": "COOKIE",
+        "token_symbol": "COOKIE",
+        "token_icon": "https://gateway.pinata.cloud/ipfs/QmenyBGvH3bq23PgcNeWLZXrhEye24gZ9JhqnoX4jXzSEK",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 0.22791672941139302,
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true
+      },
+      "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So": {
+        "token_address": "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
+        "token_name": "Marinade staked SOL (mSOL)",
+        "token_symbol": "mSOL",
+        "token_icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So/logo.png",
+        "token_decimals": 9,
+        "token_type": "token",
+        "price_usdt": 267.63,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "token_label": {
+          "token_address": "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
+          "token_name": "",
+          "token_symbol": "",
+          "token_icon": ""
+        }
+      },
+      "7GCihgDB8fe6KNjn2MYtkzZcRjQy3t9GHdC8uHYmW2hr": {
+        "token_address": "7GCihgDB8fe6KNjn2MYtkzZcRjQy3t9GHdC8uHYmW2hr",
+        "token_name": "POPCAT",
+        "token_symbol": "POPCAT",
+        "token_icon": "https://arweave.net/A1etRNMKxhlNGTf-gNBtJ75QJJ4NJtbKh_UXQTlLXzI",
+        "token_decimals": 9,
+        "token_type": "token",
+        "price_usdt": 0.794659,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true
+      },
+      "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263": {
+        "token_address": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+        "token_name": "Bonk",
+        "token_symbol": "Bonk",
+        "token_icon": "https://arweave.net/hQiPZOsRZXGXBJd_82PhVdlM_hACsT_q6wqwf5cSY7I",
+        "token_decimals": 5,
+        "token_type": "token",
+        "price_usdt": 0.00003366,
+        "reputation": "ok",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true
+      },
+      "5kzKvW343LnnK3Z6WVzQKvJYWZZ55WHesZmcyYhaxXup": {
+        "token_address": "5kzKvW343LnnK3Z6WVzQKvJYWZZ55WHesZmcyYhaxXup",
+        "token_name": "AKANE",
+        "token_symbol": "AKANE",
+        "token_icon": "https://ipfs.io/ipfs/QmcuNo5FWx6yCYyXhaVu4SeY9sHqLM1qoy5JsNybHxzsMM",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 0.00005804613004223991,
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true
+      },
+      "jupSoLaHXQiZZTSfEWMTRRgpnyFm8f6sZdosWBjx93v": {
+        "token_address": "jupSoLaHXQiZZTSfEWMTRRgpnyFm8f6sZdosWBjx93v",
+        "token_name": "Jupiter Staked SOL",
+        "token_symbol": "JupSOL",
+        "token_icon": "https://static.jup.ag/jupSOL/icon.png",
+        "token_decimals": 9,
+        "token_type": "token",
+        "price_usdt": 228.78,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "token_label": {
+          "token_address": "jupSoLaHXQiZZTSfEWMTRRgpnyFm8f6sZdosWBjx93v",
+          "token_name": "",
+          "token_symbol": "",
+          "token_icon": ""
+        }
+      },
+      "Ht8Sgrn3mABFXjg26ivNozMZuv7xaRBJQJ1TeNUboMxZ": {
+        "token_address": "Ht8Sgrn3mABFXjg26ivNozMZuv7xaRBJQJ1TeNUboMxZ",
+        "token_name": "SPL Token",
+        "token_symbol": "SPL Token",
+        "token_icon": null,
+        "token_decimals": 6,
+        "token_type": "token",
+        "reputation": "scam",
+        "is_show_value": false,
+        "is_calculate_on_portfolio": false
+      },
+      "ATzxmruRw3nBFrbXHAw2pVif35uus8SRNfMtxHdAuApB": {
+        "token_address": "ATzxmruRw3nBFrbXHAw2pVif35uus8SRNfMtxHdAuApB",
+        "token_name": "SPL Token",
+        "token_symbol": "SPL Token",
+        "token_icon": null,
+        "token_decimals": 6,
+        "token_type": "token",
+        "reputation": "scam",
+        "is_show_value": false,
+        "is_calculate_on_portfolio": false
+      },
+      "3S8qX1MsMqRbiwKg2cQyx7nis1oHMgaCuc9c4VfvVdPN": {
+        "token_address": "3S8qX1MsMqRbiwKg2cQyx7nis1oHMgaCuc9c4VfvVdPN",
+        "token_name": "MOTHER IGGY",
+        "token_symbol": "MOTHER",
+        "token_icon": "https://cf-ipfs.com/ipfs/QmUFTFWsJiceS99iDMDm2NYuhvHXJVXTgmsDeR28X8njSn",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 0.03120808,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "token_label": {
+          "token_address": "3S8qX1MsMqRbiwKg2cQyx7nis1oHMgaCuc9c4VfvVdPN",
+          "token_name": "",
+          "token_symbol": "",
+          "token_icon": ""
+        }
+      },
+      "GzAFVCBvWfdyjWxvn1QXqSSS5caSTi62t9aCC6nV3ivD": {
+        "token_address": "GzAFVCBvWfdyjWxvn1QXqSSS5caSTi62t9aCC6nV3ivD",
+        "token_name": "SPL Token",
+        "token_symbol": "SPL Token",
+        "token_icon": null,
+        "token_decimals": 6,
+        "token_type": "token",
+        "reputation": "scam",
+        "is_show_value": false,
+        "is_calculate_on_portfolio": false
+      },
+      "3iHMnc58WuVhBoEfkJKkUYDAypAe9XQKA11Luo5HkPpR": {
+        "token_address": "3iHMnc58WuVhBoEfkJKkUYDAypAe9XQKA11Luo5HkPpR",
+        "token_name": "Fu11House",
+        "token_symbol": "FH",
+        "token_icon": "https://i.degencdn.com/ipfs/bafkreibwrs2m2bkvavv77qgestecjuynqniervdjxmj2k7ph5swvdrl2bi",
+        "token_decimals": 6,
+        "token_type": "token",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true
+      },
+      "8hqrNrDPhMiYgFfo8nERh8hCtVtiBwZXgWZrP8B2jyJc": {
+        "token_address": "8hqrNrDPhMiYgFfo8nERh8hCtVtiBwZXgWZrP8B2jyJc",
+        "token_decimals": 6,
+        "token_type": "nft",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "token_label": {
+          "token_address": "8hqrNrDPhMiYgFfo8nERh8hCtVtiBwZXgWZrP8B2jyJc",
+          "token_name": "Meteora (MLG) LP Token",
+          "token_symbol": "Meteora (MLG) LP Token",
+          "token_icon": "https://statics.solscan.io/ex-img/LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo.svg"
+        }
+      },
+      "7XJiwLDrjzxDYdZipnJXzpr1iDTmK55XixSFAa7JgNEL": {
+        "token_address": "7XJiwLDrjzxDYdZipnJXzpr1iDTmK55XixSFAa7JgNEL",
+        "token_name": "360noscope420blazeit",
+        "token_symbol": "MLG",
+        "token_icon": "https://bafkreigmu65j2qlirztvilmlte3r3lz67rokjyt6acwi33opcuzacdc73y.ipfs.nftstorage.link/",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 0.078837,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true
+      },
+      "YAFAJvjUv9MVAKcTE7Y8ouo45QNKVK6fCMzdxt2tjPs": {
+        "token_address": "YAFAJvjUv9MVAKcTE7Y8ouo45QNKVK6fCMzdxt2tjPs",
+        "token_name": "Free Palestine",
+        "token_symbol": "YAFA",
+        "token_icon": "https://ipfs.io/ipfs/QmVssLHH3qbQi8UinLV1nnJvwVe5qh47K8VLhvgk3tidLj",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 0.01546671622097882,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true
+      },
+      "HdoBnUg5bK3QB1BC4Mqz14mY5VmUufjvUMQjQmvpfSmh": {
+        "token_address": "HdoBnUg5bK3QB1BC4Mqz14mY5VmUufjvUMQjQmvpfSmh",
+        "token_name": "SPL Token",
+        "token_symbol": "SPL Token",
+        "token_icon": null,
+        "token_decimals": 6,
+        "token_type": "token",
+        "reputation": "scam",
+        "is_show_value": false,
+        "is_calculate_on_portfolio": false
+      },
+      "22kDnb6yiqEh39BoRJPsdw7HFXXFsHdMjoYbtooQrQj4": {
+        "token_address": "22kDnb6yiqEh39BoRJPsdw7HFXXFsHdMjoYbtooQrQj4",
+        "token_name": "Puffer F1nance",
+        "token_symbol": "PUFFER",
+        "token_icon": "https://i.degencdn.com/ipfs/bafkreidbzf7bsx6rgyg52buhapwzcupmilotkqxaltwigi3b552orgcifu",
+        "token_decimals": 6,
+        "token_type": "token",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true
+      },
+      "CCeqw2mBPYt1Z1GCSZ5QSF4rwk84xxAHqBMXaL8orDgH": {
+        "token_address": "CCeqw2mBPYt1Z1GCSZ5QSF4rwk84xxAHqBMXaL8orDgH",
+        "token_name": "$swarms",
+        "token_symbol": "$swarms",
+        "token_icon": "https://gateway.pinata.cloud/ipfs/QmWzj17uJAX3J7kXSr7vTxarRktwcejEC1KekaJ2PPwFd8",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 0.008393863117140925,
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true
+      },
+      "5UmDWgyLV1JBg8Jr8NwyezXdQkiU3vHGJu2efm7Cpump": {
+        "token_address": "5UmDWgyLV1JBg8Jr8NwyezXdQkiU3vHGJu2efm7Cpump",
+        "token_name": "Larp Detective Agency",
+        "token_symbol": "AGENCY",
+        "token_icon": "https://ipfs.io/ipfs/QmPaR1LxEYvPLYGyec2pKo6K84QMH1CEYicBwLYfCt67Gg",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 0.01372742,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "token_label": {
+          "token_address": "5UmDWgyLV1JBg8Jr8NwyezXdQkiU3vHGJu2efm7Cpump",
+          "token_name": "",
+          "token_symbol": "",
+          "token_icon": ""
+        }
+      },
+      "DKu9kykSfbN5LBfFXtNNDPaX35o4Fv6vJ9FKk7pZpump": {
+        "token_address": "DKu9kykSfbN5LBfFXtNNDPaX35o4Fv6vJ9FKk7pZpump",
+        "token_name": "Ava AI",
+        "token_symbol": "AVA",
+        "token_icon": "https://ipfs.io/ipfs/QmQdYxGMCLEZqWpgKo8BREBa5YSUbxFu6qaWiVXUW1yUhg",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 0.169638,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "token_label": {
+          "token_address": "DKu9kykSfbN5LBfFXtNNDPaX35o4Fv6vJ9FKk7pZpump",
+          "token_name": "",
+          "token_symbol": "",
+          "token_icon": ""
+        }
+      },
+      "HNg5PYJmtqcmzXrv6S9zP1CDKk5BgDuyFBxbvNApump": {
+        "token_address": "HNg5PYJmtqcmzXrv6S9zP1CDKk5BgDuyFBxbvNApump",
+        "token_name": "Alchemist AI",
+        "token_symbol": "ALCH",
+        "token_icon": "https://ipfs.io/ipfs/QmYqwkPV1p4DraqN5TfLZVhyrAusSkHfvFDZMJAWALZJxj",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 0.206271,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "token_label": {
+          "token_address": "HNg5PYJmtqcmzXrv6S9zP1CDKk5BgDuyFBxbvNApump",
+          "token_name": "",
+          "token_symbol": "",
+          "token_icon": ""
+        }
+      },
+      "D9u1yADThke67Xk1cz5mYKSJYU7oX5eoRVQrBKMC8Jss": {
+        "token_address": "D9u1yADThke67Xk1cz5mYKSJYU7oX5eoRVQrBKMC8Jss",
+        "token_name": "USDC",
+        "token_symbol": "USDC",
+        "token_icon": "https://i.degencdn.com/ipfs/bafkreigm5o72t6kdbz7o7iwwaynejyd255dylnmb3rw3olv23ygskirsfa",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 0.9997997106837802,
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true
+      },
+      "FfUctsGNPUk1F9WTeDK47NaKwyieesyzadviRVg1m5ak": {
+        "token_address": "FfUctsGNPUk1F9WTeDK47NaKwyieesyzadviRVg1m5ak",
+        "token_name": "Sonic",
+        "token_symbol": "SON1C",
+        "token_icon": "https://i.degencdn.com/ipfs/bafkreiduf3w7sls5evzaw6rgl75owhmxbr2xwmosu244mtwpvrr4vvwuae",
+        "token_decimals": 6,
+        "token_type": "token",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true
+      },
+      "AuYKhrPU7HnG8fMKrCvh859QAEvRDUYAHy2B4GCL8oGq": {
+        "token_address": "AuYKhrPU7HnG8fMKrCvh859QAEvRDUYAHy2B4GCL8oGq",
+        "token_name": "Kira powered by Infera",
+        "token_symbol": "KIRA",
+        "token_icon": "https://ipfs.io/ipfs/QmZR76vBLjCy2q6jkQFPbvE6vuGSEkcXBtiQ72kXW9sfsh",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 0.00006884153817821224,
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true
+      },
+      "JAmWYLiv3pGnNz63UTSKSEmJG4pdvvTLCZUcmpSLJA4Q": {
+        "token_address": "JAmWYLiv3pGnNz63UTSKSEmJG4pdvvTLCZUcmpSLJA4Q",
+        "token_name": "SPL Token",
+        "token_symbol": "SPL Token",
+        "token_icon": null,
+        "token_decimals": 6,
+        "token_type": "token",
+        "reputation": "scam",
+        "is_show_value": false,
+        "is_calculate_on_portfolio": false
+      },
+      "3phQtrRDf7Jfwv93YJ239GCahKsz9KpBC7nxXTuSTJzd": {
+        "token_address": "3phQtrRDf7Jfwv93YJ239GCahKsz9KpBC7nxXTuSTJzd",
+        "token_name": "Lyvely",
+        "token_symbol": "LVLY",
+        "token_icon": "https://i.degencdn.com/ipfs/bafkreihbozs5bspyexiayhn3kho2afwb6rjbmzgnl7zouecdpuuaebne7i",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 0.024154408950404927,
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true
+      },
+      "77iXTyRBojXDbw8kTWRJzZSjTk97f4Pyr9EHBQwGsDVe": {
+        "token_address": "77iXTyRBojXDbw8kTWRJzZSjTk97f4Pyr9EHBQwGsDVe",
+        "token_name": "Your Friend Pixel",
+        "token_symbol": "PIXEL",
+        "token_icon": "https://ipfs.io/ipfs/QmeMP9BDt9hjsvRe6otwcFswMp9oyFLC2N7siNP9UFmiz4",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 0.0000637724119998391,
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true
+      },
+      "5GnhkL4mhpYr4PMF5PEuq89eypwDCvJtgAi4CUv73C8Z": {
+        "token_address": "5GnhkL4mhpYr4PMF5PEuq89eypwDCvJtgAi4CUv73C8Z",
+        "token_name": "SPL Token",
+        "token_symbol": "SPL Token",
+        "token_icon": null,
+        "token_decimals": 8,
+        "token_type": "token",
+        "reputation": "scam",
+        "is_show_value": false,
+        "is_calculate_on_portfolio": false
+      },
+      "13TpziFPpYZ4RzYaMzkPv26P5H3r9T5FYNyQmsukeorF": {
+        "token_address": "13TpziFPpYZ4RzYaMzkPv26P5H3r9T5FYNyQmsukeorF",
+        "token_name": "SPL Token",
+        "token_symbol": "SPL Token",
+        "token_icon": null,
+        "token_decimals": 8,
+        "token_type": "token",
+        "reputation": "scam",
+        "is_show_value": false,
+        "is_calculate_on_portfolio": false
+      },
+      "So11111111111111111111111111111111111111111": {
+        "token_address": "So11111111111111111111111111111111111111111",
+        "token_decimals": 9,
+        "token_name": "SOL",
+        "token_symbol": "SOL",
+        "token_type": "token",
+        "token_icon": "https://statics.solscan.io/solscan-img/solana_icon.svg",
+        "price_usdt": 213.33,
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true
+      }
+    },
+    "accounts": {
+      "CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK": {
+        "account_address": "CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+        "account_label": "Raydium Concentrated Liquidity",
+        "account_icon": "https://statics.solscan.io/ex-img/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK.png",
+        "account_tags": [],
+        "account_type": "program"
+      },
+      "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8": {
+        "account_address": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8",
+        "account_label": "Raydium Liquidity Pool V4",
+        "account_icon": "https://statics.solscan.io/ex-img/675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8.png",
+        "account_tags": [],
+        "account_type": "program"
+      },
+      "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4": {
+        "account_address": "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4",
+        "account_label": "Jupiter Aggregator v6",
+        "account_icon": "https://statics.solscan.io/ex-img/JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4.svg",
+        "account_tags": [],
+        "account_type": "program"
+      },
+      "9WpqB3kPtzy9JhQsuh8NnG7rsmzVXvWL9peun7y4C6X1": {
+        "account_address": "9WpqB3kPtzy9JhQsuh8NnG7rsmzVXvWL9peun7y4C6X1",
+        "account_tags": [
+          "token_creator",
+          "pump.fun"
+        ],
+        "account_type": "address"
+      },
+      "swapNyd8XiQwJ6ianp9snpu4brUqFxadzvHebnAXjJZ": {
+        "account_address": "swapNyd8XiQwJ6ianp9snpu4brUqFxadzvHebnAXjJZ",
+        "account_label": "stabble Stable Swap",
+        "account_icon": "https://statics.solscan.io/solscan-img/stabble_icon.png",
+        "account_tags": [],
+        "account_type": "program"
+      },
+      "whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc": {
+        "account_address": "whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc",
+        "account_label": "Orca Whirlpools",
+        "account_icon": "https://statics.solscan.io/ex-img/whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc.svg",
+        "account_tags": [],
+        "account_type": "program"
+      },
+      "D33wobbUPo9ChS8aR1RABHRYcaYZDmyajdvEM6RyLQ6a": {
+        "account_address": "D33wobbUPo9ChS8aR1RABHRYcaYZDmyajdvEM6RyLQ6a",
+        "account_tags": [
+          "token_creator"
+        ],
+        "account_type": "address"
+      },
+      "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb": {
+        "account_address": "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb",
+        "account_label": "Token 2022 Program",
+        "account_icon": "https://statics.solscan.io/solscan-img/solana_icon.svg",
+        "account_tags": [],
+        "account_type": "program"
+      },
+      "FLUXubRmkEi2q6K3Y9kBPg9248ggaZVsoSFhtJHSrm1X": {
+        "account_address": "FLUXubRmkEi2q6K3Y9kBPg9248ggaZVsoSFhtJHSrm1X",
+        "account_label": "Fluxbeam Program",
+        "account_icon": "https://statics.solscan.io/ex-img/FLUXubRmkEi2q6K3Y9kBPg9248ggaZVsoSFhtJHSrm1X.png",
+        "account_tags": [],
+        "account_type": "program"
+      },
+      "CPMMoo8L3F4NbTegBCKVNunggL7H1ZpdTHKxQB5qKP1C": {
+        "account_address": "CPMMoo8L3F4NbTegBCKVNunggL7H1ZpdTHKxQB5qKP1C",
+        "account_label": "Raydium CPMM",
+        "account_icon": "https://statics.solscan.io/ex-img/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK.png",
+        "account_tags": [
+          "raydium"
+        ],
+        "account_type": "program"
+      },
+      "LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo": {
+        "account_address": "LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo",
+        "account_label": "Meteora DLMM Program",
+        "account_icon": "https://statics.solscan.io/ex-img/LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo.svg",
+        "account_tags": [],
+        "account_type": "program"
+      },
+      "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA": {
+        "account_address": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+        "account_label": "Token Program",
+        "account_icon": "https://statics.solscan.io/solscan-img/solana_icon.svg",
+        "account_tags": [],
+        "account_type": "program"
+      },
+      "24Uqj9JCLxUeoC3hGfh5W3s9FM9uCHDS2SG3LYwBpyTi": {
+        "account_address": "24Uqj9JCLxUeoC3hGfh5W3s9FM9uCHDS2SG3LYwBpyTi",
+        "account_label": "Meteora Vault Program",
+        "account_icon": "https://statics.solscan.io/ex-img/Eo7WjKq67rjJQSZxS6z3YkapzY3eMj6Xy8X5EQVn5UaB.svg",
+        "account_tags": [],
+        "account_type": "program"
+      },
+      "Eo7WjKq67rjJQSZxS6z3YkapzY3eMj6Xy8X5EQVn5UaB": {
+        "account_address": "Eo7WjKq67rjJQSZxS6z3YkapzY3eMj6Xy8X5EQVn5UaB",
+        "account_label": "Meteora Pools Program",
+        "account_icon": "https://statics.solscan.io/ex-img/Eo7WjKq67rjJQSZxS6z3YkapzY3eMj6Xy8X5EQVn5UaB.svg",
+        "account_tags": [],
+        "account_type": "program"
+      },
+      "SoLFiHG9TfgtdUXUjWAxi3LtvYuFyDLVhBWxdMZxyCe": {
+        "account_address": "SoLFiHG9TfgtdUXUjWAxi3LtvYuFyDLVhBWxdMZxyCe",
+        "account_label": "SolFi",
+        "account_tags": [],
+        "account_type": "program"
+      },
+      "2wT8Yq49kHgDzXuPxZSaeLaH1qbmGXtEyPy64bL7aD3c": {
+        "account_address": "2wT8Yq49kHgDzXuPxZSaeLaH1qbmGXtEyPy64bL7aD3c",
+        "account_label": "Lifinity Swap V2",
+        "account_icon": "https://statics.solscan.io/ex-img/2wT8Yq49kHgDzXuPxZSaeLaH1qbmGXtEyPy64bL7aD3c.svg",
+        "account_tags": [],
+        "account_type": "program"
+      },
+      "DecZY86MU5Gj7kppfUCEmd4LbXXuyZH1yHaP2NTqdiZB": {
+        "account_address": "DecZY86MU5Gj7kppfUCEmd4LbXXuyZH1yHaP2NTqdiZB",
+        "account_label": "Saber Decimal Wrapper",
+        "account_icon": "https://statics.solscan.io/ex-img/DecZY86MU5Gj7kppfUCEmd4LbXXuyZH1yHaP2NTqdiZB.svg",
+        "account_tags": [],
+        "account_type": "program"
+      }
+    },
+    "tags": {
+      "token_creator": {
+        "tag_id": "token_creator",
+        "tag_name": "Token Creator",
+        "tag_type": 1,
+        "tag_metadata": {
+          "icon": "https://statics.solscan.io/solscan-img/mint.svg",
+          "events": [
+            {
+              "screen": "account",
+              "type": "tab_filter",
+              "description": "Click to view all tokens created by this account",
+              "event": "onclick",
+              "url": "activity_type=ACTIVITY_SPL_INIT_MINT#defiactivities"
+            }
+          ]
+        }
+      },
+      "pump.fun": {
+        "tag_id": "pump.fun",
+        "tag_name": "Pump.fun",
+        "tag_type": 1,
+        "tag_metadata": {
+          "icon": "https://statics.solscan.io/solscan-img/defi_app_pumfun.png",
+          "website": "https://pump.fun/"
+        }
+      },
+      "raydium": {
+        "tag_id": "raydium",
+        "tag_name": "Raydium",
+        "tag_type": 1,
+        "tag_metadata": {
+          "icon": "https://statics.solscan.io/ex-img/5quBtoiQqxF9Jv6KYKctB59NT3gtJD2Y65kdnB1Uev3h.png",
+          "website": "https://raydium.io/"
+        }
+      }
+    }
+  }
+}
