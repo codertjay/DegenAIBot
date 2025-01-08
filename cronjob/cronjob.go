@@ -32,7 +32,7 @@ func (t *Task) SetUpTask() {
 
 	c := cron.New()
 
-	err = c.AddFunc("@every 0h01m00s", t.AutoSendTweetPNLMessage)
+	err = c.AddFunc("@every 3h0m00s", t.AutoSendTweetPNLMessage)
 	if err != nil {
 		log.Fatal("Error adding cron job:", err)
 	}
@@ -45,7 +45,7 @@ func (t *Task) AutoSendTweetPNLMessage() {
 	randSource := random.NewSource(time.Now().UnixNano()) // Correct usage of NewSource
 	randGenerator := random.New(randSource)               // Create a new random generator
 
-	randomNum := randGenerator.Intn(24)
+	randomNum := randGenerator.Intn(len(t.cfg.SolanaAddresses))
 
 	address := t.cfg.SolanaAddresses[randomNum]
 
@@ -67,14 +67,14 @@ func (t *Task) AutoSendTweetPNLMessage() {
 		return
 	}
 
-	log.Println("Portfolio: ", message)
 	err = t.helper.SendTweet(message)
 	if err != nil {
 		log.Println("Error sending tweet: ", err.Error())
 		return
 	}
 
-	log.Println("PNL: ", pnl)
+	time.Sleep(time.Duration(20) * time.Second)
+
 	err = t.helper.SendTweet(pnl)
 	if err != nil {
 		log.Println("Error sending tweet: ", err.Error())

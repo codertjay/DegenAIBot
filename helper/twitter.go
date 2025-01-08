@@ -3,6 +3,7 @@ package helper
 import (
 	"bytes"
 	"context"
+	"encoding/json"
 	"fmt"
 	"github.com/dghubble/oauth1"
 	"io"
@@ -48,7 +49,23 @@ func (h *Helper) twitterHelper(ctx context.Context, payload []byte, url string, 
 
 func (h *Helper) SendTweet(tweet string) (err error) {
 
-	payload := []byte(fmt.Sprintf(`{"text": "%s"}`, tweet))
+	if len(tweet) > 250 {
+		tweet = tweet[:250]
+	}
+
+	//Create a map to represent the payload
+	payloadData := map[string]string{
+		"text": tweet,
+	}
+
+	log.Println(tweet)
+
+	// Properly marshal the payload into JSON
+	payload, err := json.Marshal(payloadData)
+	if err != nil {
+		return fmt.Errorf("failed to marshal payload: %w", err)
+	}
+
 	_, _, err = h.twitterHelper(context.Background(), payload, h.cfg.TwitterSendTweetRoute, "POST")
 	if err != nil {
 		return err

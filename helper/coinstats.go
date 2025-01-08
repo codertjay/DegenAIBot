@@ -179,7 +179,7 @@ func (h *Helper) GetUserPortfolio(address string) (portfolio []Portfolio, err er
 	return portfolio, nil
 }
 
-func (h *Helper) CalculateTransactionPNL(transaction Transactions) (pnlMessage string, err error) {
+func (h *Helper) CalculateTransactionPNL(transaction Transactions, address string) (pnlMessage string, err error) {
 	// Calculate total portfolio value and profit/loss
 	var totalValue float64
 	var totalProfit float64
@@ -214,13 +214,10 @@ func (h *Helper) CalculateTransactionPNL(transaction Transactions) (pnlMessage s
 		return performances[i].profitPercent > performances[j].profitPercent
 	})
 
-	// Format the timestamp
-	timestamp := transaction.Result[0].Date.UTC().Format("2006-01-02 15:04 UTC")
-
 	// Build the message
 	var builder strings.Builder
 
-	builder.WriteString(fmt.Sprintf("📊 Portfolio Update (%s)\n\n", timestamp))
+	builder.WriteString(fmt.Sprintf("📊 Portfolio Update for Address: `%s`\n\n ", address))
 	builder.WriteString(fmt.Sprintf("Portfolio Value: $%.2f\n", totalValue))
 
 	// Add profit/loss line with color indicators
@@ -256,26 +253,27 @@ func (h *Helper) CalculateTransactionPNL(transaction Transactions) (pnlMessage s
 			break // Just show the worst performer
 		}
 	}
-
 	return builder.String(), nil
 }
 
 func (h *Helper) CalculatePortfolio(address string) (message string, err error) {
+	var totalValue float64
+
 	portfolio, err := h.GetUserPortfolio(address)
 	if err != nil {
 		log.Println("Error getting user portfolio: ", err.Error())
 		return "", err
 	}
 
-	var totalValue float64
-	message = fmt.Sprintf("📊 **Portfolio Summary for Address:** `%s`\n\n", address)
+	message = fmt.Sprintf("📊 Portfolio Summary : `%s`\n", address)
 
 	for _, asset := range portfolio {
+
 		assetValue := asset.Amount * asset.Price
 		totalValue += assetValue
 
 		message += fmt.Sprintf(
-			"🔹 **%s (%s)**\n   - Amount: %.6f\n   - Price: $%.6f\n   - Value: $%.2f\n   - 24h Change: %.2f%%\n\n",
+			"🔹 %s (%s)\n   - Amount: %.6f\n   - Price: $%.6f\n   - Value: $%.2f\n   - 24h Change: %.2f%%\n\n",
 			asset.Name,
 			asset.Symbol,
 			asset.Amount,
@@ -283,9 +281,21 @@ func (h *Helper) CalculatePortfolio(address string) (message string, err error) 
 			assetValue,
 			asset.PCh24H,
 		)
+
 	}
 
-	message += fmt.Sprintf("💰 **Total Portfolio Value:** $%.2f\n", totalValue)
+	message += fmt.Sprintf("💰Total Portfolio Value: $%.2f\n", totalValue)
+
+	// Ensure the message is exactly 250 characters
+	if len(message) > 250 {
+		firstPart := message[:200]
+		lastPart := message[len(message)-50:]
+		message = firstPart + "..." + lastPart
+	} else {
+		// If the message is shorter, just return it as is
+		message = message
+	}
+
 	return message, nil
 }
 
@@ -304,7 +314,7 @@ func (h *Helper) GetAddressPNL(address string) (pnlMessage string, err error) {
 			return "", err
 		}
 
-		return h.CalculateTransactionPNL(addressTransactions)
+		return h.CalculateTransactionPNL(addressTransactions, address)
 	}
 
 	// Wait for address to sync
@@ -313,3 +323,15 @@ func (h *Helper) GetAddressPNL(address string) (pnlMessage string, err error) {
 	// sleep and recall this function
 	return h.GetAddressPNL(address)
 }
+
+/*
+📊 Portfolio Summary for Address: `FGZtWHYMww8vCEcgbdLjv22QoEtzGgX8UqB7Efvf8ZWf`
+
+🔹 BIAO on SOL (BIAO)
+   - Amount: 250.000000
+   - Price: $0.007316
+   - Value: $1.83
+   - 24h Change: 4.45%
+
+💰 Total Portfolio Value: $1.83
+*/
