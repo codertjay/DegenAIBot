@@ -46,6 +46,9 @@ func Load(envFile string) (Config, error) {
 		"HdxkiXqeN6qpK2YbG51W23QSWj3Yygc1eEk2zwmKJExp",
 		"FGZtWHYMww8vCEcgbdLjv22QoEtzGgX8UqB7Efvf8ZWf",
 		"2QLWGa5Dhos5zNwXL17JRYPT9S13riFpqWJPgUQhuVai",
+		"4EsY8HQB4Ak65diFrSHjwWhKSGC8sKmnzyusM993gk2w",
+		"45yBcpnzFTqLYQJtjxsa1DdZkgrTYponCg6yLQ6LQPu6",
+		"DNfuF1L62WWyW3pNakVkyGGFzVVhj4Yr52jSmdTyeBHm",
 	}
 	return cfg, nil
 }
